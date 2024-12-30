@@ -1,0 +1,218 @@
+[
+  {
+    "created_at": "2024-11-30 08:13:44",
+    "user_id": "7b6a6c5c-1f97-4a23-bf49-ff3a6fcbacb1",
+    "id": "9f347b4d-bbbf-450f-8208-fd47e6cd1a6f",
+    "name": "LOGIN"
+  },
+  {
+    "created_at": "2024-12-01 14:45:32",
+    "user_id": "d0a1b73b-0b8f-43b6-9e79-c06b9a91f1cd",
+    "id": "3a57004d-929f-4ed4-b81f-3ab88c742395",
+    "name": "SIGNUP"
+  },
+  {
+    "created_at": "2024-12-01 19:03:51",
+    "user_id": "1c0d8b7a-9c1b-47b8-b90d-f9f0a3dbd2c0",
+    "id": "0fb8fa9b-b045-43c0-b32a-b9fe0bde3993",
+    "name": "SETTINGS_OPENED"
+  },
+  {
+    "created_at": "2024-12-02 06:56:47",
+    "user_id": "e458ca77-179d-4085-b2ba-799f9cb3a6fe",
+    "id": "1ff2a0c2-13f5-442a-b77b-cdf49f2233fa",
+    "name": "PROFILE_UPDATED"
+  },
+  {
+    "created_at": "2024-12-03 10:39:18",
+    "user_id": "9df2cdb7-02f5-46ba-b945-6f3c3c8d4322",
+    "id": "4628a44a-424d-47d3-8d1f-625c0be307a7",
+    "name": "PASSWORD_CHANGED"
+  },
+  {
+    "created_at": "2024-12-03 15:28:30",
+    "user_id": "b0a01636-82b7-4a5c-b557-4d99c930abb6",
+    "id": "763d8b8a-63c4-45f6-b5d2-f74a4e11c02e",
+    "name": "NOTIFICATION_TOGGLED"
+  },
+  {
+    "created_at": "2024-12-04 07:34:22",
+    "user_id": "f78cdb5c-b3c2-46e9-9076-300f85a3be23",
+    "id": "23298eeb-4c6a-4d0f-b43f-2d741bbdbebd",
+    "name": "LOGOUT"
+  },
+  {
+    "created_at": "2024-12-04 12:02:10",
+    "user_id": "c33e927b-ff47-43a1-b79e-b69e383fbf36",
+    "id": "90b30c02-8586-43d0-b230-5e9a94e812ac",
+    "name": "ITEM_ADDED_TO_CART"
+  },
+  {
+    "created_at": "2024-12-05 11:12:49",
+    "user_id": "72bb5a72-feb9-4b8e-953b-897c3c3b45fa",
+    "id": "da3c3c12-75c5-41c4-9bdf-6c8d58b24092",
+    "name": "CHECKOUT_STARTED"
+  },
+  {
+    "created_at": "2024-12-06 14:58:30",
+    "user_id": "3dce9dcb-8c73-4e2f-864f-4a53979504c2",
+    "id": "472a69fc-375d-47b8-b98b-8f8d924c87fe",
+    "name": "PURCHASE_COMPLETED"
+  },
+  {
+    "created_at": "2024-12-07 08:23:45",
+    "user_id": "8b94f746-d94f-4d33-a5ab-742f399bd232",
+    "id": "31b7eaf0-5e0b-4299-b079-4bfcbe229f9b",
+    "name": "REVIEW_SUBMITTED"
+  },
+  {
+    "created_at": "2024-12-07 18:12:06",
+    "user_id": "61f67416-b741-4c2b-b6b2-b07679a72cd7",
+    "id": "5943d0c0-5d8b-487d-9e7b-5289b3f7aefb",
+    "name": "FEEDBACK_PROVIDED"
+  },
+  {
+    "created_at": "2024-12-08 07:49:12",
+    "user_id": "60ecf1f7-2154-4e71-b0a1-c2c621e6e20e",
+    "id": "256cdc72-e5cd-44f2-a6d8-0e5b2e2c84e4",
+    "name": "SEARCH_PERFORMED"
+  },
+  {
+    "created_at": "2024-12-08 13:41:00",
+    "user_id": "b0911f37-5b65-4966-b9b9-b195de6d51c0",
+    "id": "9e6827d8-71cd-4b65-b76d-536b9baffff4",
+    "name": "PAGE_VIEWED"
+  },
+  {
+    "created_at": "2024-12-09 12:14:39",
+    "user_id": "b6f0b660-fd57-47f3-9a16-dfe1ac1de680",
+    "id": "fd10adcf-c385-4154-8ae3-1c4c2e9f7b91",
+    "name": "HELP_VIEWED"
+  },
+  {
+    "created_at": "2024-12-09 15:39:20",
+    "user_id": "84e3b064-6f88-487f-957f-3a4a25e94c45",
+    "id": "9b68fa36-b2b9-464f-a216-ecfe0bc9b8f2",
+    "name": "LOGIN"
+  },
+  {
+    "created_at": "2024-12-09 17:28:51",
+    "user_id": "9b9e9039-c98b-4934-b0c2-b7e89cd70fd5",
+    "id": "db5667b7-d9b7-4df6-a6c0-bbc6bb8e83ab",
+    "name": "SETTINGS_OPENED"
+  },
+  {
+    "created_at": "2024-12-10 08:22:39",
+    "user_id": "ed2ad6c7-d91a-4ca1-9a3d-b16b0a7421c3",
+    "id": "7be0497d-38f6-4c4b-8ed6-9909751d0f09",
+    "name": "PROFILE_UPDATED"
+  },
+  {
+    "created_at": "2024-12-10 16:35:11",
+    "user_id": "cb2b81a7-0ab1-442f-925b-1a3960934fe4",
+    "id": "0a3d5c0c-b4a3-4bb1-b467-d2fc2b5e59be",
+    "name": "PASSWORD_CHANGED"
+  },
+  {
+    "created_at": "2024-12-11 11:49:02",
+    "user_id": "66d636e6-2571-41ba-b489-e627c1a0229f",
+    "id": "7c507b5c-759b-442b-8c9c-1748003a8575",
+    "name": "NOTIFICATION_TOGGLED"
+  },
+  {
+    "created_at": "2024-12-11 18:13:45",
+    "user_id": "2e2ab26e-e193-428a-9a69-e5bcaa77448e",
+    "id": "cfa4625f-5537-41e3-96c2-1e1a018be088",
+    "name": "LOGOUT"
+  },
+  {
+    "created_at": "2024-12-12 10:54:27",
+    "user_id": "ac58c244-bc71-40b1-bc6d-6878d8f5c23d",
+    "id": "d636b58f-7c7b-4041-92c5-42b830bcfbf5",
+    "name": "ITEM_ADDED_TO_CART"
+  },
+  {
+    "created_at": "2024-12-12 17:44:58",
+    "user_id": "90b8c5ae-366a-4f97-a189-b4c915cda601",
+    "id": "19357038-c34e-4873-b2d3-7795e1f1a4e5",
+    "name": "CHECKOUT_STARTED"
+  },
+  {
+    "created_at": "2024-12-13 09:12:34",
+    "user_id": "db4de4ef-94ca-4196-951a-8dce04fdfaa4",
+    "id": "99329a37-e845-427f-bac9-9b43ed0b4b33",
+    "name": "PURCHASE_COMPLETED"
+  },
+  {
+    "created_at": "2024-12-13 14:40:22",
+    "user_id": "586d18c7-c670-437d-b9bc-d158d75c5f8e",
+    "id": "d3c9b7f5-4d2d-4799-b2b5-57141d4cf34e",
+    "name": "REVIEW_SUBMITTED"
+  },
+  {
+    "created_at": "2024-12-14 11:07:13",
+    "user_id": "d5d2303d-5c7a-4873-aaf0-3d274c287f3b",
+    "id": "6fcbebeb-bc38-47b9-a6bc-6e98259e57f0",
+    "name": "FEEDBACK_PROVIDED"
+  },
+  {
+    "created_at": "2024-12-14 15:38:04",
+    "user_id": "a0d17f53-4b55-4650-9b87-774b78b73263",
+    "id": "ff057f58-0c02-47f7-b12b-78a7deed4e5f",
+    "name": "SEARCH_PERFORMED"
+  },
+  {
+    "created_at": "2024-12-15 06:49:32",
+    "user_id": "5ef1a6ff-456f-43be-b5d7-b94ec94fdfd9",
+    "id": "b92c2cfa-f2a6-4788-9f6d-dcd3c8b21942",
+    "name": "PAGE_VIEWED"
+  },
+  {
+    "created_at": "2024-12-15 13:56:11",
+    "user_id": "ac2a5783-06cc-4879-853d-97f6e80da707",
+    "id": "6948d9f9-3b79-4561-93f4-2a5a9e7982ae",
+    "name": "HELP_VIEWED"
+  },
+  {
+    "created_at": "2024-12-16 08:03:25",
+    "user_id": "d1b13f1b-6901-4f0d-b8cd-d85b4f6a1a8e",
+    "id": "ed4d1ca7-4fc2-4ea3-8465-5772ac61b99c",
+    "name": "LOGIN"
+  },
+  {
+    "created_at": "2024-12-16 18:22:48",
+    "user_id": "394450d8-3c9a-4649-a99a-f3b07bb241ed",
+    "id": "ef3ca354-e33b-493f-89e2-08da7ac5971b",
+    "name": "SETTINGS_OPENED"
+  },
+  {
+    "created_at": "2024-12-17 10:30:18",
+    "user_id": "20a4ffb8-65c4-4d87-9da9-6fdb51ad0ad6",
+    "id": "8e3d80bb-6a32-4fc6-9519-e574a9b69427",
+    "name": "PROFILE_UPDATED"
+  },
+  {
+    "created_at": "2024-12-17 19:04:02",
+    "user_id": "fd8bff35-d717-4454-97b3-9c41662fda85",
+    "id": "a3f34f3e-2eb9-4e9c-9671-bab923ea7f76",
+    "name": "PASSWORD_CHANGED"
+  },
+  {
+    "created_at": "2024-12-18 13:22:43",
+    "user_id": "a1eaf99c-0a6c-45c0-84a3-7c9606d544b9",
+    "id": "bcfb5a9d-f84d-47b1-bb62-c46f7a46b4d0",
+    "name": "NOTIFICATION_TOGGLED"
+  },
+  {
+    "created_at": "2024-12-18 16:40:55",
+    "user_id": "5b9d7728-29fa-4ff5-9a52-97017d68858e",
+    "id": "bc3e1f9a-9fbc-4f0a-b8f0-9d7ec0466222",
+    "name": "LOGOUT"
+  },
+  {
+    "created_at": "2024-12-19 11:08:13",
+    "user_id": "ed6f0c3d-74a7-49ca-b163-bd0a13b3702b",
+    "id": "d65c6228-b438-48f7-84b8-0e745b6930ab",
+    "name": "ITEM_ADDED_TO_CART"
+  }
+]
