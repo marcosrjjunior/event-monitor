@@ -1,18 +1,17 @@
-import { getData } from '@/lib/db'
 import Link from 'next/link'
+import cx from 'clsx'
+
+import { getData } from '@/lib/db'
 import { UserDetailLink } from './EventDetailLink'
 import { UsersFilters } from './UsersFilters'
 
 export const Users = async ({ searchParams }) => {
-  const { page = 1, filters_user_id } = await searchParams
+  const { page = 1, filters_user_id, user_id } = await searchParams
 
   const users = getData('users.json')
   const filteredUser = users.filter(
     user => !filters_user_id || user.id === filters_user_id,
   )
-
-  // console.log('filteredUser', filteredUser.length)
-  console.log('filteredUser', filteredUser)
 
   return (
     <div className="flex flex-col md:min-w-[375px]">
@@ -24,7 +23,12 @@ export const Users = async ({ searchParams }) => {
 
       <ul className="list bg-base-100 rounded-box shadow-md">
         {filteredUser.map(user => (
-          <li className="list-row" key={user.id}>
+          <li
+            className={cx('list-row', {
+              'opacity-70': user.id !== user_id,
+            })}
+            key={user.id}
+          >
             <div className="avatar avatar-placeholder flex items-center gap-2">
               <div className="bg-neutral text-neutral-content w-8 rounded">
                 <span className="text-xs">
@@ -34,13 +38,14 @@ export const Users = async ({ searchParams }) => {
             </div>
 
             <div>
-              <div>{user.name.substring(0, 2).toUpperCase()}</div>
+              <div>{user.name.toUpperCase()}</div>
+
               <div className="text-xs font-semibold uppercase opacity-60">
-                {user.name}
+                ROLE
               </div>
             </div>
 
-            <UserDetailLink userId={user.id} />
+            <UserDetailLink userId={user.id} disabled={user.id === user_id} />
           </li>
         ))}
       </ul>

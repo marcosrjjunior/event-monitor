@@ -1,24 +1,29 @@
 'use client'
 
-export const EventsSlider = () => {
+export const EventsSlider = ({
+  events,
+  setCurrentEventIndex,
+  currentEventIndex,
+}) => {
+  console.log('events length', events.length)
   return (
-    <div>
+    <div className="w-full">
       <input
         type="range"
-        min={0}
-        max="100"
-        value="25"
-        className="range"
-        step="25"
-        onChange={() => {}}
+        // min={0}
+        max={events.length}
+        value={currentEventIndex}
+        className="range w-full"
+        step={1}
+        onChange={e => {
+          setCurrentEventIndex(e.target.value)
+        }}
       />
 
       <div className="flex w-full justify-between px-2 text-xs">
-        <span>|</span>
-        <span>|</span>
-        <span>|</span>
-        <span>|</span>
-        <span>|</span>
+        {events.map(event => (
+          <span key={event.id}>|</span>
+        ))}
       </div>
     </div>
   )

@@ -9,12 +9,13 @@ import { EventsSlider } from './EventsSlider'
 import { EVENT_LOCATIONS } from '@/utils/constants'
 
 export const Events = ({ events }) => {
-  const [currentEvent, setCurrentEvent] = useState(events[0])
+  // const [currentEvent, setCurrentEvent] = useState(events[0])
+  const [currentEventIndex, setCurrentEventIndex] = useState(events[0])
 
-  console.log('currentEvent', currentEvent)
+  const currentEvent = events[currentEventIndex]
   const eventLocation =
-    EVENT_LOCATIONS?.[currentEvent?.version || '1.0']?.[currentEvent.name]
-  console.log('eventLocation', eventLocation)
+    EVENT_LOCATIONS?.[currentEvent?.version || '1.0']?.[currentEvent?.name]
+  console.log('currentEventIndex', currentEventIndex)
 
   // const top = eventLocation.x
   // const left = eventLocation.y
@@ -22,9 +23,15 @@ export const Events = ({ events }) => {
 
   return (
     <>
-      <EventsSlider />
+      <div className="w-[80%]">
+        <EventsSlider
+          events={events}
+          setCurrentEventIndex={setCurrentEventIndex}
+          currentEventIndex={currentEventIndex}
+        />
+      </div>
 
-      <span>{currentEvent.name}</span>
+      <span>{currentEvent?.name}</span>
 
       <div className="relative">
         <div className="relative flex h-5 w-5">
