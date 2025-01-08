@@ -1,11 +1,15 @@
 import { Events } from '@/components/Events'
+import { UserEvents } from '@/components/UserEvents'
+import { Users } from '@/components/Users'
 import { CubeHole } from 'iconoir-react'
 import Image from 'next/image'
 import { Suspense } from 'react'
 
-export default function Home({ searchParams }) {
+export default async function Home({ searchParams }) {
+  const { user_id } = await searchParams
+
   return (
-    <div className="grid min-h-screen grid-rows-[20px_1fr_20px] justify-items-center gap-2 bg-base-100 p-8 pb-20 font-[family-name:var(--font-geist-sans)]">
+    <div className="bg-base-100 grid min-h-screen gap-2 p-8 pb-20 font-[family-name:var(--font-geist-sans)]">
       <main className="row-start-2 flex flex-col items-center gap-8 sm:items-start">
         <div className="navbar bg-base-100">
           <div className="navbar-start">
@@ -86,6 +90,16 @@ export default function Home({ searchParams }) {
           {/* <div className="navbar-end">
             <a className="btn">Button</a>
           </div> */}
+        </div>
+
+        <div className="flex flex-row flex-wrap gap-5">
+          <Suspense>
+            <Users searchParams={searchParams} />
+          </Suspense>
+
+          <Suspense>
+            <UserEvents searchParams={searchParams} userId={user_id} />
+          </Suspense>
         </div>
 
         <Suspense>

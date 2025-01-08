@@ -4,10 +4,12 @@ import { format } from 'date-fns'
 import Link from 'next/link'
 
 export const Events = async ({ searchParams }) => {
-  const { page = 1 } = await searchParams
+  const { page = 1, user_id } = await searchParams
 
-  const events = getData('events.json', page)
+  const events = getData('events.json', page, 10)
   const total = count('events.json')
+
+  console.log('user_id', user_id)
 
   return (
     <div className="flex w-full flex-col gap-2">

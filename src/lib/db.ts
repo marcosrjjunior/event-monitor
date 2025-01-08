@@ -6,7 +6,7 @@ const readFile = fileName => {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'))
 }
 
-export const getData = (fileName, page = 1, limit = 10) => {
+export const getData = (fileName, page = 1, limit = 99999) => {
   try {
     const data = readFile(fileName)
 
