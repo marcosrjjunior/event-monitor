@@ -1,23 +1,26 @@
 import { getData } from '@/lib/db'
-import Link from 'next/link'
-import { EventDetailLink } from './EventDetailLink'
-import { UsersFilters } from './UsersFilters'
+import { Events } from './Events'
 
-export const Users = async ({ searchParams }) => {
-  const { page = 1, filters_user_id } = await searchParams
+export const EventsWrapper = async ({ searchParams, userId }) => {
+  const {} = await searchParams
 
-  const users = getData('events.json', page, 10).map(item => item.user_id)
+  const events = getData('events.json').filter(item => item.user_id === userId)
 
-  const filteredUser = users.filter(
-    user => !filters_user_id || user === filters_user_id,
-  )
+  console.log('events', events)
+  //   const filteredUser = users.filter(
+  //     user => !filters_user_id || user === filters_user_id,
+  //   )
 
   // console.log('filteredUser', filteredUser.length)
   // console.log('filteredUser', filteredUser)
 
   return (
-    <div className="flex min-w-[400px] flex-col">
-      {/* <h2 className="text-base">Users</h2> */}
+    <div className="flex min-w-[375px] flex-1 flex-col items-center">
+      {userId}
+
+      <Events events={events} />
+
+      {/* <h2 className="text-base">Users</h2>
 
       <span className="pb-2 text-sm tracking-wide opacity-60">Users</span>
 
@@ -41,7 +44,7 @@ export const Users = async ({ searchParams }) => {
               </div>
             </div>
 
-            <EventDetailLink userId={user_id} />
+            <UserDetailLink userId={user_id} />
           </li>
         ))}
       </ul>
@@ -59,7 +62,7 @@ export const Users = async ({ searchParams }) => {
         >
           <button className="btn join-item">»</button>
         </Link>
-      </div>
+      </div> */}
     </div>
   )
 }

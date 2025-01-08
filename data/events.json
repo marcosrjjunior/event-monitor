@@ -9,13 +9,23 @@
     "created_at": "2024-12-01 14:45:32",
     "user_id": "d0a1b73b-0b8f-43b6-9e79-c06b9a91f1cd",
     "id": "3a57004d-929f-4ed4-b81f-3ab88c742395",
-    "name": "SIGNUP"
+    "name": "SHOW_ON_MAP_TOGGLED"
   },
   {
     "created_at": "2024-12-01 19:03:51",
-    "user_id": "1c0d8b7a-9c1b-47b8-b90d-f9f0a3dbd2c0",
+    "user_id": "d0a1b73b-0b8f-43b6-9e79-c06b9a91f1cd",
     "id": "0fb8fa9b-b045-43c0-b32a-b9fe0bde3993",
-    "name": "SETTINGS_OPENED"
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-01 19:03:51",
+    "user_id": "d0a1b73b-0b8f-43b6-9e79-c06b9a91f1cd",
+    "id": "fa594f6e-c133-40f2-ac9b-4b957dc8d518",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
     "created_at": "2024-12-02 06:56:47",
@@ -165,7 +175,7 @@
     "created_at": "2024-12-15 06:49:32",
     "user_id": "5ef1a6ff-456f-43be-b5d7-b94ec94fdfd9",
     "id": "b92c2cfa-f2a6-4788-9f6d-dcd3c8b21942",
-    "name": "PAGE_VIEWED"
+    "name": "COMPLETE_ONBOARDING"
   },
   {
     "created_at": "2024-12-15 13:56:11",

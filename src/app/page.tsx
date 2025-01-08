@@ -1,7 +1,7 @@
 import { Events } from '@/components/Events'
-import { UserEvents } from '@/components/UserEvents'
-import { Users } from '@/components/Users'
-import { CubeHole } from 'iconoir-react'
+import { EventsWrapper } from '@/components/Events/EventsWrapper'
+import { Users } from '@/components/Users/Users'
+import { CubeHole, Menu } from 'iconoir-react'
 import Image from 'next/image'
 import { Suspense } from 'react'
 
@@ -12,97 +12,87 @@ export default async function Home({ searchParams }) {
     <div className="bg-base-100 grid min-h-screen gap-2 p-8 pb-20 font-[family-name:var(--font-geist-sans)]">
       <main className="row-start-2 flex flex-col items-center gap-8 sm:items-start">
         <div className="navbar bg-base-100">
-          <div className="navbar-start">
-            {/* <div className="dropdown">
+          <div className="navbar-start w-full">
+            <div className="dropdown">
               <div
                 tabIndex={0}
                 role="button"
                 className="btn btn-ghost lg:hidden"
               >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-5 w-5"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    stroke-width="2"
-                    d="M4 6h16M4 12h8m-8 6h16"
-                  />
-                </svg>
+                <Menu />
               </div>
+
               <ul
                 tabIndex={0}
-                className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
+                className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 gap-2 p-2 shadow"
               >
                 <li>
-                  <a>Item 1</a>
+                  <a>
+                    <CubeHole />
+                    Events
+                  </a>
                 </li>
+
                 <li>
-                  <a>Parent</a>
-                  <ul className="p-2">
-                    <li>
-                      <a>Submenu 1</a>
-                    </li>
-                    <li>
-                      <a>Submenu 2</a>
-                    </li>
-                  </ul>
+                  <a>
+                    <CubeHole />
+                    Heatmap
+                  </a>
                 </li>
+
                 <li>
-                  <a>Item 3</a>
+                  <a>
+                    <CubeHole />
+                    Charts
+                  </a>
                 </li>
               </ul>
-            </div> */}
+            </div>
 
             <a className="btn btn-ghost text-xl">event monitor</a>
-          </div>
 
-          {/* hidden lg:flex */}
-          <div className="navbar-center flex">
-            <ul className="menu menu-horizontal px-1">
-              <li>
-                <a>
-                  <CubeHole />
-                  Events
-                </a>
-              </li>
+            <div className="hidden lg:flex">
+              <ul className="menu menu-horizontal px-1">
+                <li>
+                  <a>
+                    <CubeHole />
+                    Events
+                  </a>
+                </li>
 
-              <li>
-                <a>
-                  <CubeHole />
-                  Heatmap
-                </a>
-              </li>
+                <li>
+                  <a>
+                    <CubeHole />
+                    Heatmap
+                  </a>
+                </li>
 
-              <li>
-                <a>
-                  <CubeHole />
-                  Charts
-                </a>
-              </li>
-            </ul>
-          </div>
+                <li>
+                  <a>
+                    <CubeHole />
+                    Charts
+                  </a>
+                </li>
+              </ul>
+            </div>
 
-          {/* <div className="navbar-end">
+            {/* <div className="navbar-end">
             <a className="btn">Button</a>
           </div> */}
+          </div>
         </div>
 
-        <div className="flex flex-row flex-wrap gap-5">
+        <div className="flex w-full flex-row flex-wrap gap-5">
           <Suspense>
             <Users searchParams={searchParams} />
           </Suspense>
 
           <Suspense>
-            <UserEvents searchParams={searchParams} userId={user_id} />
+            <EventsWrapper searchParams={searchParams} userId={user_id} />
           </Suspense>
         </div>
 
-        <Suspense>
+        {/* <Suspense>
           <Events searchParams={searchParams} />
         </Suspense>
 
@@ -113,7 +103,7 @@ export default async function Home({ searchParams }) {
           width={180}
           height={38}
           priority
-        />
+        /> */}
 
         <ol className="list-inside list-decimal font-[family-name:var(--font-geist-mono)] text-sm">
           <li className="mb-2">

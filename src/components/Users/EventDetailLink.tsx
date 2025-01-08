@@ -3,7 +3,7 @@
 import { updateSearchParams } from '@/utils/searchParams'
 import { useRouter } from 'next/navigation'
 
-export const EventDetailLink = ({ userId }) => {
+export const UserDetailLink = ({ userId }) => {
   const router = useRouter()
 
   return (
