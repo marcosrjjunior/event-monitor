@@ -6,10 +6,9 @@ import { UsersFilters } from './UsersFilters'
 export const Users = async ({ searchParams }) => {
   const { page = 1, filters_user_id } = await searchParams
 
-  const users = getData('events.json', page, 10).map(item => item.user_id)
-
+  const users = getData('users.json')
   const filteredUser = users.filter(
-    user => !filters_user_id || user === filters_user_id,
+    user => !filters_user_id || user.id === filters_user_id,
   )
 
   // console.log('filteredUser', filteredUser.length)
@@ -24,24 +23,24 @@ export const Users = async ({ searchParams }) => {
       <UsersFilters users={users} />
 
       <ul className="list bg-base-100 rounded-box shadow-md">
-        {filteredUser.map(user_id => (
-          <li className="list-row" key={user_id}>
+        {filteredUser.map(user => (
+          <li className="list-row" key={user.id}>
             <div className="avatar avatar-placeholder flex items-center gap-2">
               <div className="bg-neutral text-neutral-content w-8 rounded">
                 <span className="text-xs">
-                  {user_id.substring(0, 2).toUpperCase()}
+                  {user.name.substring(0, 2).toUpperCase()}
                 </span>
               </div>
             </div>
 
             <div>
-              <div>{user_id.substring(0, 2).toUpperCase()}</div>
+              <div>{user.name.substring(0, 2).toUpperCase()}</div>
               <div className="text-xs font-semibold uppercase opacity-60">
-                {user_id}
+                {user.name}
               </div>
             </div>
 
-            <UserDetailLink userId={user_id} />
+            <UserDetailLink userId={user.id} />
           </li>
         ))}
       </ul>

@@ -18,7 +18,7 @@ export const EventsWrapper = async ({ searchParams, userId }) => {
     <div className="flex min-w-[375px] flex-1 flex-col items-center">
       {userId}
 
-      <Events events={events} />
+      {events.length > 0 && <Events events={events} />}
 
       {/* <h2 className="text-base">Users</h2>
 

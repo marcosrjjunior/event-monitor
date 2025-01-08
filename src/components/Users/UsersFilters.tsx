@@ -45,9 +45,9 @@ export const UsersFilters = ({ users }) => {
         defaultValue={state?.user_id}
       >
         <option value="">Filter user...</option>
-        {users.map(user_id => (
-          <option key={user_id} value={user_id}>
-            {user_id}
+        {users.map(user => (
+          <option key={user.id} value={user.id}>
+            {user.name}
           </option>
         ))}
       </select>

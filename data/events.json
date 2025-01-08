@@ -1,228 +1,4002 @@
 [
   {
-    "created_at": "2024-11-30 08:13:44",
-    "user_id": "7b6a6c5c-1f97-4a23-bf49-ff3a6fcbacb1",
-    "id": "9f347b4d-bbbf-450f-8208-fd47e6cd1a6f",
-    "name": "LOGIN"
-  },
-  {
-    "created_at": "2024-12-01 14:45:32",
-    "user_id": "d0a1b73b-0b8f-43b6-9e79-c06b9a91f1cd",
-    "id": "3a57004d-929f-4ed4-b81f-3ab88c742395",
-    "name": "SHOW_ON_MAP_TOGGLED"
-  },
-  {
-    "created_at": "2024-12-01 19:03:51",
-    "user_id": "d0a1b73b-0b8f-43b6-9e79-c06b9a91f1cd",
-    "id": "0fb8fa9b-b045-43c0-b32a-b9fe0bde3993",
+    "created_at": "2024-05-04 06:10:36",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "31a09ace-6f11-4469-ad97-f547fc628a55",
     "name": "SYNC_TRAIL_DATA",
     "version": "1.0",
     "device": "mobile"
   },
   {
-    "created_at": "2024-12-01 19:03:51",
-    "user_id": "d0a1b73b-0b8f-43b6-9e79-c06b9a91f1cd",
-    "id": "fa594f6e-c133-40f2-ac9b-4b957dc8d518",
+    "created_at": "2024-10-16 03:05:04",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "4c416f6f-6b7b-4803-b029-7c8a20bb48a5",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-11 21:41:32",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "558c0bfc-55d2-459f-abcd-ed9d5d36007d",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-27 06:02:38",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "f9d6cf26-1e01-47a5-9efe-4580f2b3b488",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-21 12:12:15",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "838c015a-4359-466b-83ad-c782b5143708",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-11 05:20:25",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "dcc919fc-778f-48c0-8d44-0c0eb9ea3b5d",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-04 08:56:35",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "9ad861f5-fc2c-4011-bd65-4a2333fab267",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-04 12:11:24",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "7cf58665-64eb-4393-bd68-9dd773c36e79",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-14 01:16:27",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "b1d9e503-6d95-4036-9aef-b49a3678e5a0",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-15 20:19:42",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "7ea9052b-c23a-43a0-ae10-14585e90430e",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-02 01:40:09",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "019fe7ed-4e23-4b0e-987d-53d85a91a050",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-23 16:32:17",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "d1d28abe-1854-4443-94e3-653512e212fc",
     "name": "ACTIVITY_TOGGLED",
     "version": "1.0",
     "device": "mobile"
   },
   {
-    "created_at": "2024-12-02 06:56:47",
-    "user_id": "e458ca77-179d-4085-b2ba-799f9cb3a6fe",
-    "id": "1ff2a0c2-13f5-442a-b77b-cdf49f2233fa",
-    "name": "PROFILE_UPDATED"
+    "created_at": "2024-03-22 03:21:08",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "8a7b0728-f1a0-43e3-993b-4eb00f1d0911",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-03 10:39:18",
-    "user_id": "9df2cdb7-02f5-46ba-b945-6f3c3c8d4322",
-    "id": "4628a44a-424d-47d3-8d1f-625c0be307a7",
-    "name": "PASSWORD_CHANGED"
+    "created_at": "2024-03-02 22:13:07",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "8fbfdfb0-5046-4fe9-8e5b-7794d4a29608",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-03 15:28:30",
-    "user_id": "b0a01636-82b7-4a5c-b557-4d99c930abb6",
-    "id": "763d8b8a-63c4-45f6-b5d2-f74a4e11c02e",
-    "name": "NOTIFICATION_TOGGLED"
+    "created_at": "2024-04-30 04:16:26",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "5dc448f3-8b74-4e84-bf4f-0983dd074df8",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-04 07:34:22",
-    "user_id": "f78cdb5c-b3c2-46e9-9076-300f85a3be23",
-    "id": "23298eeb-4c6a-4d0f-b43f-2d741bbdbebd",
-    "name": "LOGOUT"
+    "created_at": "2024-07-05 19:32:09",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "28772cd6-eeb2-4d4a-b60c-1c2ce60550fc",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-04 12:02:10",
-    "user_id": "c33e927b-ff47-43a1-b79e-b69e383fbf36",
-    "id": "90b30c02-8586-43d0-b230-5e9a94e812ac",
-    "name": "ITEM_ADDED_TO_CART"
+    "created_at": "2024-12-25 23:57:10",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "0a39487e-47e9-4a70-b8b5-0872b2e031e0",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-05 11:12:49",
-    "user_id": "72bb5a72-feb9-4b8e-953b-897c3c3b45fa",
-    "id": "da3c3c12-75c5-41c4-9bdf-6c8d58b24092",
-    "name": "CHECKOUT_STARTED"
+    "created_at": "2024-03-09 10:49:34",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "8c53d4f0-1979-4de5-9f56-e50623d2bcf5",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-06 14:58:30",
-    "user_id": "3dce9dcb-8c73-4e2f-864f-4a53979504c2",
-    "id": "472a69fc-375d-47b8-b98b-8f8d924c87fe",
-    "name": "PURCHASE_COMPLETED"
+    "created_at": "2024-06-04 03:57:41",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "0785bb08-c292-4e13-b72d-14fecf582e16",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-07 08:23:45",
-    "user_id": "8b94f746-d94f-4d33-a5ab-742f399bd232",
-    "id": "31b7eaf0-5e0b-4299-b079-4bfcbe229f9b",
-    "name": "REVIEW_SUBMITTED"
+    "created_at": "2024-10-30 03:52:55",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "f67727ca-87e4-4c38-bda6-21102018455f",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-07 18:12:06",
-    "user_id": "61f67416-b741-4c2b-b6b2-b07679a72cd7",
-    "id": "5943d0c0-5d8b-487d-9e7b-5289b3f7aefb",
-    "name": "FEEDBACK_PROVIDED"
+    "created_at": "2024-03-22 01:33:10",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "d42363f6-413e-430a-b7bf-9e8778fac63b",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-08 07:49:12",
-    "user_id": "60ecf1f7-2154-4e71-b0a1-c2c621e6e20e",
-    "id": "256cdc72-e5cd-44f2-a6d8-0e5b2e2c84e4",
-    "name": "SEARCH_PERFORMED"
+    "created_at": "2024-07-28 01:52:04",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "a385f4cc-594a-4495-9e9e-0552e21d27f1",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-08 13:41:00",
-    "user_id": "b0911f37-5b65-4966-b9b9-b195de6d51c0",
-    "id": "9e6827d8-71cd-4b65-b76d-536b9baffff4",
-    "name": "PAGE_VIEWED"
+    "created_at": "2024-05-03 16:29:11",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "ae189268-17eb-419e-87e0-a31764a2fa8c",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-09 12:14:39",
-    "user_id": "b6f0b660-fd57-47f3-9a16-dfe1ac1de680",
-    "id": "fd10adcf-c385-4154-8ae3-1c4c2e9f7b91",
-    "name": "HELP_VIEWED"
+    "created_at": "2024-03-01 00:49:47",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "1dfee00f-9f45-4a98-91ee-89c0fefad0b5",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-09 15:39:20",
-    "user_id": "84e3b064-6f88-487f-957f-3a4a25e94c45",
-    "id": "9b68fa36-b2b9-464f-a216-ecfe0bc9b8f2",
-    "name": "LOGIN"
+    "created_at": "2024-11-24 18:59:10",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "34eb4994-8bb1-4c8d-b067-288d7f3619c1",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-09 17:28:51",
-    "user_id": "9b9e9039-c98b-4934-b0c2-b7e89cd70fd5",
-    "id": "db5667b7-d9b7-4df6-a6c0-bbc6bb8e83ab",
-    "name": "SETTINGS_OPENED"
+    "created_at": "2024-10-11 03:54:43",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "60f976fe-6579-453e-975e-47647ef50cfd",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-10 08:22:39",
-    "user_id": "ed2ad6c7-d91a-4ca1-9a3d-b16b0a7421c3",
-    "id": "7be0497d-38f6-4c4b-8ed6-9909751d0f09",
-    "name": "PROFILE_UPDATED"
+    "created_at": "2024-07-31 14:32:06",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "45a112cb-3c3e-4d8c-8dd4-8e9035ea619c",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-10 16:35:11",
-    "user_id": "cb2b81a7-0ab1-442f-925b-1a3960934fe4",
-    "id": "0a3d5c0c-b4a3-4bb1-b467-d2fc2b5e59be",
-    "name": "PASSWORD_CHANGED"
+    "created_at": "2024-04-24 18:33:29",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "4f143b80-ef76-4dec-88c7-2ddc7f2cfbed",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-11 11:49:02",
-    "user_id": "66d636e6-2571-41ba-b489-e627c1a0229f",
-    "id": "7c507b5c-759b-442b-8c9c-1748003a8575",
-    "name": "NOTIFICATION_TOGGLED"
+    "created_at": "2024-07-03 04:59:40",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "20d9bc54-3729-4d1a-8504-cad83211b906",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-11 18:13:45",
-    "user_id": "2e2ab26e-e193-428a-9a69-e5bcaa77448e",
-    "id": "cfa4625f-5537-41e3-96c2-1e1a018be088",
-    "name": "LOGOUT"
+    "created_at": "2024-09-02 02:41:20",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "8d62ae55-23fe-4436-8e4b-a02077acd0c6",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-12 10:54:27",
-    "user_id": "ac58c244-bc71-40b1-bc6d-6878d8f5c23d",
-    "id": "d636b58f-7c7b-4041-92c5-42b830bcfbf5",
-    "name": "ITEM_ADDED_TO_CART"
+    "created_at": "2024-12-21 13:43:12",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "5e51f473-edde-4df6-b3e0-ca2e2a655ecf",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-12 17:44:58",
-    "user_id": "90b8c5ae-366a-4f97-a189-b4c915cda601",
-    "id": "19357038-c34e-4873-b2d3-7795e1f1a4e5",
-    "name": "CHECKOUT_STARTED"
+    "created_at": "2024-04-07 04:41:59",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "96e50cab-1cb6-4dc8-b478-6ca11e6cea14",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-13 09:12:34",
-    "user_id": "db4de4ef-94ca-4196-951a-8dce04fdfaa4",
-    "id": "99329a37-e845-427f-bac9-9b43ed0b4b33",
-    "name": "PURCHASE_COMPLETED"
+    "created_at": "2024-07-12 15:31:52",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "f7e39acc-3e3f-4054-9323-64b076ed9160",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-13 14:40:22",
-    "user_id": "586d18c7-c670-437d-b9bc-d158d75c5f8e",
-    "id": "d3c9b7f5-4d2d-4799-b2b5-57141d4cf34e",
-    "name": "REVIEW_SUBMITTED"
+    "created_at": "2024-12-18 17:22:24",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "480898da-36c7-4326-8fb5-3e5a796cd2b1",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-14 11:07:13",
-    "user_id": "d5d2303d-5c7a-4873-aaf0-3d274c287f3b",
-    "id": "6fcbebeb-bc38-47b9-a6bc-6e98259e57f0",
-    "name": "FEEDBACK_PROVIDED"
+    "created_at": "2024-09-10 22:41:06",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "0d3d58ef-3b46-44e4-8d87-a7a2a1013183",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-14 15:38:04",
-    "user_id": "a0d17f53-4b55-4650-9b87-774b78b73263",
-    "id": "ff057f58-0c02-47f7-b12b-78a7deed4e5f",
-    "name": "SEARCH_PERFORMED"
+    "created_at": "2024-03-22 18:00:24",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "8e9cc0c4-2997-4ffc-b320-d4212a8cbdbf",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-15 06:49:32",
-    "user_id": "5ef1a6ff-456f-43be-b5d7-b94ec94fdfd9",
-    "id": "b92c2cfa-f2a6-4788-9f6d-dcd3c8b21942",
-    "name": "COMPLETE_ONBOARDING"
+    "created_at": "2024-08-31 20:10:44",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "b904242b-0a88-4f10-84af-49e4b2bd2c75",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-15 13:56:11",
-    "user_id": "ac2a5783-06cc-4879-853d-97f6e80da707",
-    "id": "6948d9f9-3b79-4561-93f4-2a5a9e7982ae",
-    "name": "HELP_VIEWED"
+    "created_at": "2024-08-31 09:28:12",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "779dcf70-af35-4cca-9180-fcf5b1c7c643",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-16 08:03:25",
-    "user_id": "d1b13f1b-6901-4f0d-b8cd-d85b4f6a1a8e",
-    "id": "ed4d1ca7-4fc2-4ea3-8465-5772ac61b99c",
-    "name": "LOGIN"
+    "created_at": "2024-01-02 04:11:34",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "4c860c20-b392-4424-80e6-53250c067e50",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-16 18:22:48",
-    "user_id": "394450d8-3c9a-4649-a99a-f3b07bb241ed",
-    "id": "ef3ca354-e33b-493f-89e2-08da7ac5971b",
-    "name": "SETTINGS_OPENED"
+    "created_at": "2024-04-19 13:44:59",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "0b656940-2ce9-48a1-aee2-46b65c5c8867",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-17 10:30:18",
-    "user_id": "20a4ffb8-65c4-4d87-9da9-6fdb51ad0ad6",
-    "id": "8e3d80bb-6a32-4fc6-9519-e574a9b69427",
-    "name": "PROFILE_UPDATED"
+    "created_at": "2024-06-06 15:31:04",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "9be0fc94-ef74-4686-a11f-d60801878279",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-17 19:04:02",
-    "user_id": "fd8bff35-d717-4454-97b3-9c41662fda85",
-    "id": "a3f34f3e-2eb9-4e9c-9671-bab923ea7f76",
-    "name": "PASSWORD_CHANGED"
+    "created_at": "2024-09-06 00:51:03",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "49e1c9e4-eb67-492b-a680-dc770d9e6089",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-18 13:22:43",
-    "user_id": "a1eaf99c-0a6c-45c0-84a3-7c9606d544b9",
-    "id": "bcfb5a9d-f84d-47b1-bb62-c46f7a46b4d0",
-    "name": "NOTIFICATION_TOGGLED"
+    "created_at": "2024-11-09 03:42:47",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "ee823ff2-ac94-48db-9e1e-6e6165e7c4d2",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-18 16:40:55",
-    "user_id": "5b9d7728-29fa-4ff5-9a52-97017d68858e",
-    "id": "bc3e1f9a-9fbc-4f0a-b8f0-9d7ec0466222",
-    "name": "LOGOUT"
+    "created_at": "2024-12-19 09:19:11",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "21b40dba-fd60-4afb-a070-ab51da30ab8a",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
   },
   {
-    "created_at": "2024-12-19 11:08:13",
-    "user_id": "ed6f0c3d-74a7-49ca-b163-bd0a13b3702b",
-    "id": "d65c6228-b438-48f7-84b8-0e745b6930ab",
-    "name": "ITEM_ADDED_TO_CART"
+    "created_at": "2024-03-12 07:00:42",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "1c65a0f2-e6ad-4f78-80ee-cd565294149a",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-28 20:37:27",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "1f1b934b-3bfc-4a3b-917c-d0055c4c86ff",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-27 18:35:49",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "76f0afef-d552-4bb1-8d61-5316fa53ad73",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-29 00:17:09",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "87743e4f-3f95-4140-af57-770820dc4dde",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-22 05:54:00",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "be253966-434a-45c0-b985-f368ebeb8c20",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-08 02:00:49",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "fb0a373f-7c50-4b84-b85d-6a47ebf74d29",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-08 18:02:13",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "0aee669c-48af-4239-91ae-bf142dafa2db",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-31 09:11:27",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "54c59e55-4090-4027-99d2-454338d2336a",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-02 11:01:53",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "711e4907-28d8-4b7e-bbed-882b012a682b",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-04 19:30:21",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "51311caa-10a2-4a30-b04a-247a68732a0b",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-14 05:43:32",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "ff88fbe8-1573-4aff-bc9d-421568c640b8",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-05 03:52:06",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "796afe2f-99cc-4719-af24-45bca849ef49",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-24 22:30:45",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "3b85160a-f861-4223-9c53-da6ee65c2701",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-27 05:59:26",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "cb9fc52d-75e4-4f8d-8691-72f19e03d07d",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-09 06:15:10",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "eb85cb75-8d43-4a6b-9c8b-326ac2897954",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-09 21:34:02",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "180dc36a-9b13-4089-87dd-ecd3e2041b70",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-25 11:54:46",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "92ffd938-9236-44f0-886d-10fa04953b7e",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-23 21:19:39",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "7766e5a5-e72d-4cc8-8dfa-c798de9a5a10",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-11 23:03:14",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "b84818cc-1349-47b0-bb37-7e571e03c79c",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-21 05:50:24",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "121792c9-83e7-4b8b-a676-e43f6518f163",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-05 05:27:34",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "54c5e9ac-c50f-4fc1-8e6d-ee475bc02ef3",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-22 05:49:21",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "e68d583e-2f90-4ef4-8a0a-d4026b023f88",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-10 13:04:56",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "ee0870c9-b754-4629-adca-e951f7241ccf",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-10 12:00:35",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "38cf6114-3488-477c-85ee-9bfdd52a266f",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-10 08:43:38",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "0dee0958-5ff6-45a4-a6c9-aa01db6eb3f5",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-19 20:40:13",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "67e4bcab-6eda-4c93-9df0-c905a5b044ad",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-18 17:49:35",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "37596992-9aa8-4076-8523-3078ffb3b0ac",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-22 09:26:13",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "dcf90504-5d97-4e37-9efa-2ecfb3fa7746",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-30 01:29:04",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "412b0dae-4ca5-4917-8d08-9e5625b89454",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-17 03:43:56",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "8b9aaffe-fba0-415d-82be-8307228ebb98",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-18 03:38:12",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "8ae7170d-359b-4245-bda4-2dbeda40926d",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-09 09:11:18",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "be7134ba-4f27-4b58-80a0-454e926f9a3c",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-16 06:06:52",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "93bad557-f49d-49b4-874e-104938c85bae",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-27 06:06:33",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "cda70880-f196-4f94-ae5d-af1e82b2aeec",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-28 21:01:29",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "76a6d9df-5ef5-4ff3-8a9b-c2bebd6a9b86",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-16 11:58:25",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "2e2b5316-ee6d-4ff1-96b4-051d0c0d7342",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-16 01:14:03",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "9196701b-34f1-4e43-be7e-0b40f1919bf4",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-17 07:20:17",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "f1820823-3606-4476-b4a3-d55b4cf60708",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-15 02:35:48",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "07c38941-3799-442e-8b56-ea35430974fc",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-26 10:43:10",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "0e02e4ee-818e-4717-8621-f765d82aaf89",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-23 17:39:24",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "c346c61d-270b-497a-828e-ac382983df69",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-28 03:29:26",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "7fae642e-bac3-4ba8-9364-70386329f7f1",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-03 00:14:20",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "ca1cbb66-a779-4858-bf6a-2284750d186f",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-08 03:06:00",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "ad97786d-14d9-4c59-a318-1c4dd8a64761",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-01 18:24:33",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "49ab3a76-3069-48f7-ba91-c1242cfbc339",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-04 17:31:15",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "8018c704-0094-45dc-a107-af6cd4a5cd15",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-06 06:22:24",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "24ab4fa5-07d7-45c1-b0f4-fd8d517325d6",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-16 07:46:31",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "8576f1ff-f075-4194-a36b-7c96d13c68d5",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-15 16:30:47",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "a0769ec5-ecc8-4fca-bfd7-f12fa281a897",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-03 15:54:49",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "55e507f9-9a35-4eb1-b62b-adad9cfe35b3",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-23 21:34:32",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "0d5c8577-d983-43ce-b9e9-70426be52c70",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-26 03:04:46",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "b51d9484-1849-4e36-befe-0e4828f31330",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-01 23:25:39",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "5ecc2024-1ba6-4fc7-9a20-c90dc06d5cb5",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-10 07:04:52",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "78b3b471-d40c-462e-8b03-4a297a3f2b21",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-10 15:47:34",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "f2a07889-3818-45ee-bbae-4a3c4184e102",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-25 18:40:55",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "fc0857e8-a696-46ee-bb43-f9dcb0f03d41",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-05 09:57:14",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "76281dc2-8e5f-4c10-9264-6a47b3c9362b",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-02 04:42:09",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "60dce4ed-b118-41d0-8a72-e5a0e33fa5de",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-24 16:41:36",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "30b858ff-18fc-49c8-912a-fd6cb1f358ec",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-26 14:11:05",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "b92f70c0-8f14-42a0-9b99-8c12d0e82453",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-10 06:50:06",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "8ae9efc6-106b-4284-90b2-3b3abf74e762",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-06 05:02:49",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "2c57dab8-132f-4cec-9c70-4f4dcc2dc9bc",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-19 03:12:30",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "76201a4f-d7d8-4a69-8a67-b682a2537caa",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-18 15:22:12",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "c9f682c1-dace-40c9-a251-d6262aba2e45",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-03 20:23:50",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "af35520d-c1d6-401d-bc94-8cd852a600ae",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-24 08:10:10",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "7d8cd7c7-f309-419f-8282-b5238a426fb0",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-17 20:41:12",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "773b5451-edc8-4668-be03-8213714e191d",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-21 21:02:24",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "133f076c-1069-4f60-8a70-8323e9df26c3",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-15 20:53:25",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "243688b2-1073-43cc-a31b-0a02eb23674b",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-12 07:13:34",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "1c14f953-7de7-4dec-9aa8-1d5a7cebf785",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-17 20:58:23",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "57712c4e-4223-4233-9598-8856105ac788",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-03 14:28:57",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "54485957-8cb4-4c30-bf41-d68281af5dea",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-19 04:51:10",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "32475dde-f367-4c87-a8c8-e30b6a93ff4f",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-29 15:45:44",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "759a7e33-f43b-46f8-92a5-99e118e31afd",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-21 13:14:34",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "58184a47-b3e3-409d-94c6-58c3e85c3b29",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-11 02:41:37",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "a9b108df-3996-4690-a73c-0be9920148ad",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-02 11:14:38",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "9485f2f5-476c-46df-9d71-4ba9f42d8e89",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-08 17:33:26",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "383c7a60-62a2-4736-86a5-23cbfbfc4ba5",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-15 07:13:00",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "71b07ded-dea5-4f4f-b10c-cc63fcac9338",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-24 08:19:02",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "29c8a4e4-ffd7-418f-8bf0-72652e142f8f",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-21 13:16:42",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "144db218-5f63-4856-be30-4c93ab002a8f",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-20 00:18:17",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "a3a8c143-bbb6-4754-a454-8e182744f7d2",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-20 19:45:41",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "a0dcab14-92ba-4e4e-885a-c57d6a4ba571",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-16 09:01:27",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "14d48be7-f34a-494d-b46e-e511ce3b2dfe",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-01 01:11:32",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "9f7a4066-b43f-48d4-870c-fe551ab9f7a4",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-22 05:24:39",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "5790c7ea-42e5-4b94-8164-0490731ad646",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-04 11:50:58",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "814eac7e-ae16-46c5-a2bc-331eb8c3d596",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-26 15:57:35",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "7435b568-91ff-4527-be51-24d7a9455de9",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-25 07:02:09",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "498e78ce-1a2d-4659-9950-9812d213e22a",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-13 11:21:13",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "4f096ffd-b8d7-453a-91e7-8c34932b7f6b",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-30 08:53:32",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "af2ec966-1f47-4d6c-9f55-4017cb60f1a6",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-07 14:38:03",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "b8e0613b-578c-4612-b193-c2e8445a6891",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-26 12:27:49",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "13a291d3-9859-428c-9434-8ae86acf3b35",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-11 17:57:19",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "abb697be-6409-4e24-8f4e-6f1937583ad1",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-25 14:50:44",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "52a67160-31f7-46a8-8acd-74de3a79c948",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-05 12:41:44",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "d46d100b-d265-4bfa-ae44-e1edb206cebf",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-14 13:31:10",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "4ab77bd4-3c16-4b85-ba81-89ee06b59649",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-01 03:21:55",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "23ead32c-a954-4109-a04c-42c00618df36",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-21 21:59:51",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "c78ffdf4-67e6-423c-8954-b72c254b45be",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-17 04:40:36",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "4404be2e-cc45-4bc2-878d-e35e8a9db6bf",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-20 01:51:42",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "13239b61-34f0-4615-919a-97c580dd1d62",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-27 13:51:46",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "9f8a0549-2736-4c1d-8b79-9fdc2161bbed",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-12 16:17:42",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "b9a35aba-b3b8-4675-865f-467a64b15f8b",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-17 12:23:33",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "47cc6d20-8bd9-41a6-bf32-9f5ec75b6acd",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-03 09:16:12",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "c13e2164-b4dc-407e-81a5-65553d27d54b",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-11 14:59:25",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "53101829-7b3c-4685-97f2-b776229505c7",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-23 19:10:39",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "266133af-0713-460b-8661-85580ba92eec",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-06 13:42:44",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "70dfbf02-cc46-482a-814d-582b9a9ba102",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-10 23:13:03",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "540a558a-dfb4-4641-b028-f31d3dcc8cc5",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-08 00:27:52",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "1aa23e28-5053-482b-8d4e-95d65601148f",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-13 02:17:00",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "aa9a6150-34bd-40cb-9eb6-132dff7d6964",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-26 20:49:41",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "a9bcaebd-f4ac-4f4b-b3b9-52010bb3d13d",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-13 22:52:42",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "af66ef59-47ce-49d9-9d3d-aa206975114f",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-25 10:43:05",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "94a1bfb3-7816-4cf3-aba2-71a424a39400",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-10 09:29:25",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "99a00c3d-44ec-404f-9f26-1bd6901a6af4",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-30 13:01:30",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "0f1949b4-b095-4369-99b2-6a371fb87fd4",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-06 19:29:53",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "69a2a89d-3f91-48c3-ac63-ac89e416bbcb",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-09 11:53:23",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "2e7d7e59-60bc-4bd4-b861-b7cdbfb76383",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-12 08:09:08",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "54fdcb9d-bba0-484a-a1f9-ca08eee0b507",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-03 15:08:15",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "f85b6105-ad00-4025-93bc-fc43259f7188",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-16 11:21:34",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "3d0bdd25-9480-438e-bea3-9fd6ddc36869",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-23 18:50:25",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "63210dd1-edfa-47b7-aed9-57c26b736ac5",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-18 13:29:30",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "7f6a5da6-2214-4b0b-9da2-aa2701fc1108",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-24 20:07:32",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "dd8add94-1549-43b1-b421-fb7f1f0f13f5",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-08 23:05:59",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "4a56765b-34d9-4df7-86b1-08b7716ca71a",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-17 13:13:38",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "9f076b6e-bd23-4e8a-a64d-8a42e5707281",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-07 20:58:19",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "b013f488-cf0e-42dd-80fa-6fbb7944c6c8",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-09 15:52:43",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "c19e964a-d178-4781-9e3a-4104b1127b9f",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-28 09:55:37",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "b756ca7c-b6da-44a9-9e1c-2a6aa566fd9e",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-21 21:18:49",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "d9703d06-df67-4c5b-9bf1-63b39c10c500",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-16 22:00:53",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "cc36442c-714f-4e08-857c-8ea2452f744d",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-15 08:18:21",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "70f52434-f6dc-4418-b139-1536169a8a01",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-03 07:02:05",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "1ea9f9cc-b026-409c-b1ee-531c82410d4a",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-06 22:10:40",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "8517309a-fcbd-42d7-af54-95b91ecbfb31",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-14 13:30:43",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "e0650189-0018-434a-a720-1ee359bd3ea4",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-29 00:29:22",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "18fa7b18-796b-441b-bcf7-21cc901df54c",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-12 18:43:32",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "c1b7e5a9-9637-416e-9784-05419736f4ea",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-11 03:12:29",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "3c9847bb-37e0-4b5a-862d-33f4540adf34",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-26 14:36:03",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "2a2ac7a2-79f3-475d-9f78-2cf91e8ef6e0",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-24 00:09:34",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "7399920a-c488-45f1-affd-f0a8b2b840fb",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-08 01:05:47",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "b880c76d-c2cf-44f0-8ed7-7dce40a162c1",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-18 07:13:20",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "47fa8c2c-aebc-4f17-848e-519295dc3d82",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-11 12:31:42",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "a7854757-e713-4c91-8d34-0c024089da54",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-17 01:49:20",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "1f7ee604-297e-4750-8c7f-83dccb21b726",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-17 23:35:55",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "70cd10ff-3abd-448c-8326-2a6b1a2858df",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-26 10:31:51",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "2b10989c-1e40-4627-9b82-81db538b2a85",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-22 17:52:08",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "708d0f92-b105-4345-bc09-f68e5731f0d7",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-07 05:47:25",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "f50eb143-ca9d-4b6c-8674-c30af66b832c",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-19 02:19:06",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "74066ac0-d61f-4f59-8658-84935821d997",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-16 14:00:34",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "bc413c06-cb31-4de4-901c-78f2ff3b8397",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-29 03:19:07",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "da69a81f-ce87-4759-8d24-27a0e2ddf6cc",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-29 03:30:44",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "ebeb2ece-f98a-433c-b159-6d36a74160cb",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-26 01:38:27",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "b576f4d4-ef9d-43d8-9fd6-79955deae1f9",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-09 04:16:40",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "c635820e-0a8c-4646-98d6-3a25cb6deac7",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-17 19:57:40",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "09d78cc1-df73-4e4f-825c-bac8a3ca6aab",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-25 11:53:38",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "8f836c8f-b393-49aa-8dde-f3acf45c349d",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-31 04:52:24",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "1ef8d426-8b47-4a13-9e0f-c0f3bd1c2999",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-27 15:29:39",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "c6ccbcea-dad4-4367-a578-88ab44103d50",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-22 12:25:24",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "353d30b5-2c24-48a6-87bf-4c0495f10498",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-15 19:14:59",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "55d3e74f-4ab0-421c-bfc3-91a6b2a7d642",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-24 09:29:49",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "7567d936-a617-4d88-b544-da6bfee32ed2",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-21 13:55:02",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "9174df55-6274-4a28-bf86-d2f9da99c568",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-24 14:40:20",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "2ca682a8-2ec2-43fe-95e1-3e43a3765d0c",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-02 01:09:34",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "a6de162e-ec5d-491c-92af-dabaabc06782",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-25 19:37:41",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "9d5989a4-26ae-4a8c-971b-bcb668e17aa2",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-26 20:22:28",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "392783ab-00d2-4082-a475-7847cbbdb9ea",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-12 13:44:16",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "c1d401f7-ba39-4669-bb6b-662e1a6cec7f",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-25 16:09:44",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "99427971-4b31-471b-8d0c-d8e5c4129b6f",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-10 03:43:57",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "9f4bc63a-3630-4f44-91d5-2a4c1c5761bf",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-10 15:36:03",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "700a9b23-3ef2-476d-9e8b-999625b638de",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-04 03:44:50",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "6ecc066a-1293-42bb-ad20-8cf725b259a1",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-04 00:55:35",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "2f7b30df-e9e8-49b2-82e4-49a32e1234b9",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-06 19:20:15",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "7d41da17-4c34-4aa0-bff0-267d633632aa",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-29 05:24:39",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "5055e0f7-42c5-4bb9-a941-c30faecbb1ea",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-23 07:09:01",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "6a6ceb6d-5f09-4632-a7f2-021bb1cbfb4c",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-12 21:12:43",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "4908027a-fee4-4c97-8445-2f0c9388f3c2",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-18 20:44:45",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "179ed40c-3757-4ca2-b641-5382b09c9042",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-04 09:36:28",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "f82199a0-cc29-4fb9-98f2-be229ad52578",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-10 12:18:51",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "0cdbaeb6-0e7d-41fc-abb9-847ed508b814",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-19 02:28:04",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "d8f742c3-a082-4e55-8848-02f17171f66e",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-09 23:44:46",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "3468c409-416d-4b28-aeef-d450c5fccee4",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-02 18:53:21",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "487f9478-fda0-4d99-8cf6-7b458bf2a1c0",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-28 19:07:48",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "9f0b9be0-d305-4050-ab7c-e4dac7693a35",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-31 09:33:26",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "c3e84e2b-cb12-41d8-9173-5112887a8489",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-13 15:20:09",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "b20fdc2b-3d73-4153-bb5e-5320d064c3f7",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-13 13:44:41",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "3ac56bc6-dcb5-4839-b100-b69431ac02fa",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-28 21:58:22",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "556f4efe-04ae-4742-b7e6-e7c7047bfa55",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-19 13:46:14",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "06dc5e5e-5d88-4f16-9e50-822d420204b4",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-08 18:19:15",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "9ce916d7-ffb7-4c7c-91ec-d9084345dcc4",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-28 09:02:47",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "29f2706a-3717-4fb0-881a-c042aa355d0e",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-20 07:20:20",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "580ae1d5-2cca-4e99-82d6-b1adadb682c2",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-29 21:07:56",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "d7848022-8574-4653-82cb-b4fced383cba",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-13 03:11:38",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "7713c67f-b656-4afd-a6d1-1b55264ad438",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-13 20:38:50",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "fbc07ae0-3901-45b2-a329-040f51c3b77a",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-04 00:36:57",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "a6820777-1cfe-49f9-b116-e9097ad120c7",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-05 05:43:49",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "caa164f7-e589-47af-877b-926ce1ab619c",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-15 21:21:37",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "6a2d2a3c-2dfd-42a3-90eb-57d9fb592e36",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-24 15:25:07",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "8041afe8-7805-483f-9eb5-c7b39f41fa78",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-04 02:16:27",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "5c369599-09d9-4e3d-ae34-97069c6fe0be",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-12 04:41:16",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "3efa2eb0-9caf-47bf-a815-1394b84b80ab",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-21 18:42:10",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "b7d7c4d5-740d-4fa7-b21d-daeb95bb60ed",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-16 03:00:44",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "4c7d8d62-e611-4653-afe6-e10848d0c58c",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-08 18:27:02",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "5add6191-e6d1-439f-874f-bb6703caffe6",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-10 07:01:32",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "cf70bd33-fdf5-4b0d-bd14-5e1327d56b57",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-26 19:55:53",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "62ae4a88-d961-4f50-942f-f3af4022945e",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-10 15:33:58",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "deac3350-12ed-4b4c-8093-2411cb400aca",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-11 12:51:39",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "82630a91-e47b-4e4c-b4d4-2dec0230bf8a",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-15 15:46:39",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "dc3162e2-8f1c-47e4-9cd5-e0d351be504c",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-25 05:15:34",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "202c2496-de03-4abc-a316-6604486453db",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-17 10:26:03",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "91051353-5ad8-44d5-a79b-ce33b1ddfced",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-20 22:47:34",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "b154a206-80ac-4751-8db2-8daf4e8b357b",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-18 22:35:37",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "4513985c-2bb1-4655-9102-215d217c1201",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-31 03:32:26",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "f955a649-38c5-4354-abd8-2e7cde7f6eef",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-19 14:55:01",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "c0723cfd-0270-4392-bb66-1c70b1b6abdc",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-28 22:55:26",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "2398ba78-a987-425d-9e75-5790efab7de1",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-24 13:03:11",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "8da9d948-ff1f-4fee-95b4-07065f6c1bbf",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-13 20:39:58",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "bb5edb4a-7017-49e2-a736-6428e5d30cd8",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-05 12:57:15",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "6ac3f813-17f6-49bf-b3b0-a177a0158db3",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-16 18:47:32",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "df064be5-a4db-41b1-826c-5a5cb9db6053",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-18 12:46:30",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "6c372fa4-1869-49ce-846c-1feab94c094b",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-04 18:49:42",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "df1f814c-93df-4bf5-811d-518eb9ddf9ce",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-16 07:26:18",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "aaa9e183-e4bc-41b4-8b7e-22b204ec9d65",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-18 14:23:51",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "bc1037dc-c0c1-4eed-a556-fa144a0ba698",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-30 13:37:14",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "4e7cc282-2019-4b1c-980d-808e2f70321c",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-10 02:03:56",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "52ddf7c8-a762-41c7-8440-0902cfc5ce58",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-15 11:29:18",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "6074347c-3e72-4916-97f4-916671a2ad7c",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-20 16:11:09",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "8a98c295-7c90-4c02-b069-f4b2dd267ffb",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-05 10:20:50",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "285eabf4-793e-41eb-8cec-ad0b6d2e2cb2",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-25 03:23:40",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "7533024c-c7cc-442e-850a-fe8460c34590",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-02 13:27:38",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "e2c86bb3-e6c0-4878-8a2c-0cf0ff446bc1",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-08 12:23:24",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "aa7d268e-a6b7-47b8-b795-c9780fd835c9",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-14 19:19:44",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "554b726a-6f8d-4bc6-b130-bf7e12514746",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-22 19:50:32",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "e8f3a341-b143-467a-b6bb-7f27c26b9cc1",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-18 17:20:12",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "c5a20414-1543-48f7-8f0f-39b7d4c08917",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-07 02:49:21",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "3c97bf48-910d-4569-ad89-ee85c9a4658c",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-20 17:32:16",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "29ccde33-d8fb-41d2-9df1-cb4f24e858bf",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-06 19:13:08",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "55c434ce-491f-4c4f-8f62-e3fe0330cb2d",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-13 20:03:45",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "a549a6ec-7079-408c-89df-1115a1c2fdd1",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-17 04:55:55",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "2512696f-ff79-49b8-a84e-7f4fc818b2a4",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-21 21:39:34",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "13fe1ecb-17ec-42f1-91a3-dbca0c2cec8b",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-04 15:50:22",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "02d2f5e2-a434-498b-accf-b9fe9e8a7139",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-28 06:04:57",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "6482e4ae-b226-4f15-bb3d-a70d92b7a2f8",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-21 15:20:32",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "fcc487b8-4567-4ee8-a6b0-a358ba7da58c",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-04 07:29:19",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "5908378c-2a5e-4058-b3b3-1bfa21a12865",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-13 15:22:27",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "566397c2-9a3d-4202-bb96-23ba72fd4ac8",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-20 07:07:37",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "aada3ce0-cbb8-40ae-b7be-f409ae0027eb",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-24 12:49:29",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "a227017a-fcbd-4124-9736-98af50f59b46",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-28 20:03:38",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "1f7f4a85-3b0a-46ca-8644-43cf5507dbab",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-21 12:45:49",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "fa62894a-2f33-4585-9dbd-595124c5f5d0",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-11 23:26:14",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "c08a5930-854b-4580-8fe4-eb13eacafd26",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-06 14:32:43",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "e9f79d21-22bf-4ba7-be7d-4928e316ecd7",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-04 19:40:40",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "145ea6bf-fda5-4914-ac2b-dccc3229dc22",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-16 21:32:28",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "8d2a32d8-9e5b-4067-a187-9d4dbddd8522",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-03 21:50:08",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "fc1ef2d1-144a-4db4-b2fd-10c29eaafa7e",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-05 05:39:24",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "818250a5-bc54-453d-a99e-db5f30b4b92f",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-21 21:32:43",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "7440a020-0d37-441d-8aed-71c07ee9d310",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-04 01:59:19",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "3498d44f-e663-46d0-b193-113d09ad595d",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-04 18:14:26",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "4f8d8fcb-4cd1-41c4-8218-7fb00088a58b",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-27 05:26:21",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "92df4568-9ce4-4a04-9d46-6e990fe5157a",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-21 16:51:51",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "78698a96-9742-4a46-8998-012ebe158343",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-12 05:07:30",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "7a6c6e5d-4f13-49e9-89e3-4179c80bf737",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-19 15:38:03",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "2ee3ecdb-0066-45f0-a79b-999c9a81aa29",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-02 18:33:30",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "991abcf1-f1d5-4104-9b5b-2b9daab85439",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-08 03:54:27",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "d81c6718-0b89-4fa2-8bd3-45b1346ff710",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-24 20:27:21",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "6e09e62e-0c33-4b0a-a20b-09876ad1f13a",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-06 12:37:44",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "791ee06c-092a-409c-a6e0-fe501faae33b",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-30 17:19:53",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "049e9ede-a994-4b78-ab61-2e02945841e1",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-16 01:53:32",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "ab6d907f-4117-4585-8d3b-00b58b4121ff",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-27 23:41:40",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "ad1a720c-b271-4e55-8d38-e58b572150fd",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-27 07:53:53",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "daa457aa-8586-4fc5-9a2d-1c74ff9f28b2",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-22 08:56:19",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "8c5e7136-abed-4ade-938e-39003953675b",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-16 02:57:00",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "774d30a8-cc05-4914-833e-0dd28f057693",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-14 04:26:12",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "b274dacf-2e9d-480c-a419-cd7f773e9a6e",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-04 21:44:36",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "6d74faf3-abe8-49fa-abc2-7083b5092333",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-09 20:29:23",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "142a4164-45e1-4077-91f3-ecc63af75c61",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-19 03:18:49",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "8d835712-ad85-4ecf-b326-8f989f4a1636",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-12 02:03:11",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "316eebd8-5430-46f5-b721-c1b754169d37",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-31 21:37:05",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "f844a3db-dd60-40f4-bd76-017b4cc77c97",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-20 14:19:57",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "9a5d94fa-ee3a-41ee-93b9-f5aa1d9bdc89",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-29 21:01:36",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "a08e498f-1c80-470f-8064-20b641442b16",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-17 21:02:02",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "b5311820-e1ed-45ca-9143-a1c960f01d3f",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-26 12:03:17",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "33cf4ee7-d3eb-44b8-acd6-2e417ed46b50",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-07 08:57:04",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "08f3bb8e-91bc-444d-9b91-fa480bb60865",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-20 23:39:30",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "ffaf9f1a-a3d9-400d-a4e8-66f3bc7c911e",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-04 04:10:25",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "89260bd6-0f8a-47f0-9d6c-501854b1fd4f",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-21 15:33:11",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "4b26b49a-e5ce-4ab5-8d01-e18c11fae416",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-12 06:58:44",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "80d11e4c-f02f-4fa9-9bab-3aef02ae7fb5",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-10 22:17:12",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "e2216de1-dafe-4ae1-a4b0-4a19b47dc9eb",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-03 11:45:27",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "804f3ec0-d322-4c72-9e98-adb39b19e250",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-09 04:08:17",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "89836a2d-3f13-4d57-be04-4ff0ac8d731f",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-04 22:36:14",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "3ac56d3a-d5a4-4031-9066-d1d221b1ad6e",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-08 00:29:35",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "4449a619-3bed-4ab3-935b-bc1766410ad0",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-07 11:38:18",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "2311f3e3-ab43-441c-8533-5ca3312506ad",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-20 11:28:55",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "1cd79e9d-61e3-47d8-bc1f-5e24ac92fc1f",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-12 13:50:26",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "a0ae9e10-2541-4bc1-bbcd-15e7db58e2e1",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-08 16:35:35",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "d59efcad-b12a-4a07-88b5-564eb7736883",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-05 13:42:53",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "ac46a8ea-9ef2-423b-818f-d28461726f3e",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-07 11:09:57",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "35424770-b570-40a8-86c2-ceef7500f717",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-13 23:26:54",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "562d0623-ce82-4d4a-856f-9d5889093c3e",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-17 21:32:46",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "928c1009-4eed-491f-a5ef-049fabcf7fe8",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-11 04:34:22",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "bc52cb00-b973-4b41-baa5-f32038a412af",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-03 08:45:23",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "cc978b44-fde0-4de5-a810-9e578240a287",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-06 07:03:45",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "9e57db8c-aff6-43c2-9ae3-b7db1a392111",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-11 08:25:52",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "83a413f1-3ad4-494c-8c36-43add734e131",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-14 23:51:43",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "a8826e0c-197a-4660-923c-0fa70dc7b2f1",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-30 02:21:57",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "ab47cb7d-64ff-4fd7-aa0d-cc4069fce3ce",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-28 03:06:38",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "0a363e6c-295a-4177-a068-aafdb77f4a5e",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-29 10:45:17",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "70852c51-da7b-405a-8e42-fd244d86299f",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-27 06:14:16",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "c249f742-ed10-44b6-9807-67800aa45496",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-10 05:06:44",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "1a5be4e1-8786-4925-9c1b-a1590c97b558",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-12 22:56:06",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "f42cfa42-abb8-450e-b9f5-d466f9cc975a",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-21 01:25:46",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "15af89da-cb1e-4643-88c9-80c3f6e06ab4",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-08 11:27:36",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "06c694d6-65f4-4d01-97c6-bb7db5082307",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-21 18:00:51",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "0a9868b3-f723-4fc5-9da1-009052909768",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-04 08:34:46",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "c21b88b1-243e-4586-a3d3-a1e663848b2e",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-02 00:20:32",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "c3f9f562-cf22-4451-b72f-3c38b9421ac3",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-11 01:17:13",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "0d2ecd9b-c750-4995-9eae-35112dc37b1b",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-26 18:48:13",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "714015b2-c74a-4a40-8ee1-b02f037d091d",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-21 08:58:30",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "f2b8e6e0-ebd0-47b5-983f-482de00a3367",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-22 16:51:17",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "658ab010-6eca-4036-8f75-443e270db4e8",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-27 22:30:01",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "50a35dfb-66ef-43f9-bfef-65d667181f34",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-22 20:44:07",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "e6b04a27-eaf7-47f4-8196-b8c86750eec3",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-27 03:43:20",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "ef398206-37c0-4788-85cb-a49abe6550c0",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-15 06:23:25",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "828cead3-e940-4a05-b4db-5fe13c79e632",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-27 12:01:04",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "857b372b-800f-413f-a2d7-d3c63b695274",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-06 14:20:47",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "b81051c2-70e6-4424-b114-e05f41f6e6a6",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-18 17:54:07",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "9e25aa7a-b8ae-4705-b6d5-2b8f83296f34",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-27 18:10:46",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "cf2832d8-1e66-45cd-926f-c6c31f1759de",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-23 14:33:02",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "cbed2e1a-55ff-44d0-82f6-38ad00533295",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-05 23:37:48",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "33dc80e0-9e9e-4fdd-8259-a93f9816646f",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-10 03:54:29",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "c87a09ca-c7d4-420b-98dc-fd65c47b1dd3",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-02 21:32:32",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "5139f536-7472-4157-b03c-a7a45c460375",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-17 08:44:44",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "f47901c1-b304-48bf-a4bf-646615a28163",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-23 08:34:41",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "91ef8f4a-3987-4563-ab8a-970899126db8",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-25 02:34:01",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "f2661a20-0c62-4a74-8746-b7b87bf1b72c",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-21 05:06:08",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "30e5f1ab-3f09-459b-95db-53c110ce0861",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-02 22:46:52",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "13a6a233-6bb1-4501-9157-fb3878035f87",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-20 02:54:14",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "de1c85d1-8588-4837-8557-aba51352650e",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-14 18:55:10",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "802fffbd-5ab9-4ce8-ae5e-288d4b3b1048",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-19 23:22:41",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "14e145fb-bef3-445c-869e-94836e667093",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-06 17:10:46",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "f9372236-cf7d-4c7a-bfd0-c48c5dcb7efb",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-20 18:14:18",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "63149344-3d9a-444d-ac0b-5253175ac02d",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-20 06:48:16",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "3f6e9abc-aa49-49ba-931e-4eaf9dc89aea",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-19 20:53:39",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "60837f17-15e5-4370-8aa0-a0de83880e0d",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-29 13:51:56",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "4cb09c10-bd75-4fa8-842a-1cca941aac9c",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-02 23:24:38",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "d7cf33f1-bb95-4345-bde6-4b4122d904f5",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-28 16:47:23",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "89d9119f-0d5d-4d2d-886e-31f3db83d187",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-10 15:39:02",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "d11592a2-70cf-47ef-a9b3-6739386036b8",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-17 20:18:33",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "7013f323-5395-4c30-b819-0872c87ea0eb",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-29 05:52:33",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "af03b367-3523-491c-8979-ec9fbb8714cb",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-18 14:46:03",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "d62557d4-2eff-49e7-994a-f1ebe0cd6b4e",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-07 20:20:59",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "f8437ec4-131e-4686-841a-217c9b565aa3",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-24 00:58:22",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "d8197a6b-523f-4b83-8381-63348b395617",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-25 01:38:49",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "5a9f4982-2d3d-4682-a04b-a12a19c84ba2",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-01 17:30:24",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "18ba8c57-1804-4a5a-b6ab-919e1831d229",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-26 05:34:49",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "b7d9e1aa-15cf-4bcf-bb69-d378947e904b",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-17 10:38:04",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "139e93c7-1f82-4516-8b89-c28bf070766b",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-19 20:31:12",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "5f3e59be-9b0c-4a77-8943-3db42e2d8506",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-05 21:09:11",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "90a38ce3-9e87-426b-8dbb-f724833f6a0d",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-20 18:07:40",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "b415024c-083c-4d9f-8d81-8239fdc8539d",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-24 01:48:02",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "d4ed19a6-bc81-4bfe-b812-65afe2965038",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-23 20:02:51",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "62ad3c96-5c52-4889-a922-21848d5ec5c2",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-23 10:01:07",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "34edd9a5-bc46-4868-b3f9-fcdb7680485b",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-13 01:15:20",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "3c552f7c-8f00-4755-b934-f78bd82d4fae",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-23 06:33:09",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "37995419-f885-460c-863b-7cb5bf1810f2",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-18 16:31:12",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "3fb46e57-723b-4a08-aa87-0d46f77f329b",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-13 10:30:14",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "f6340661-e312-4e51-997f-73a94dd787d5",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-07 02:42:54",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "35c29a97-9caa-48b5-a8f4-92aea49f55d8",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-12 14:25:44",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "016770f3-a3f3-4b88-852e-0a656bfa8575",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-04 14:22:54",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "cd300a95-b76e-4169-82c5-ab4b878b54ae",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-15 12:44:06",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "19912ad2-ea59-4f8d-b29e-e59c33ede0c8",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-26 05:13:54",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "d17e344f-ca09-4687-9d52-e43c748128c1",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-04 22:35:53",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "42f491dc-ef2b-4fb1-9645-f02e574acb79",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-27 13:08:44",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "4f0d3f80-c910-4494-b78e-c18835e9560f",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-10 21:44:58",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "4f74b7bc-5060-42d4-b873-85ba7a6f4124",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-14 14:09:33",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "a539898f-cc8d-49c4-8441-09c4b255507e",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-27 08:36:01",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "8bacfda1-6d35-4bad-8f50-112e8ef46fe5",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-23 23:00:36",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "8e7840df-091a-4a1b-bf18-4e36f3b3c6e0",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-06 16:03:58",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "ef5fba90-1a50-42a3-a21f-775401ca3b6c",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-14 23:42:09",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "76d734ac-ab10-4716-ba22-895f60aa1e20",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-09 17:10:55",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "40ea3bd8-80b9-40ba-b031-a15f1d01ef6d",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-27 03:57:54",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "d754bc02-d73e-433d-94cc-e04544e13a3d",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-17 08:50:29",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "7255f3e1-a5b0-41c6-b924-9a66f1dac18d",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-14 10:04:10",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "86c8187a-9a2f-4a38-b222-2e7dafa29c2d",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-25 23:48:35",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "267502ba-746e-4b62-9972-f2a095b937c7",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-13 07:23:45",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "5ff7f8da-3bc2-4349-a0a8-b5e2b09d8a09",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-06 22:17:50",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "b51ffdfb-0ec1-46dd-a37c-fc55748373bf",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-23 02:29:42",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "c783cba2-1681-4fa5-942c-9a292d4cfd98",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-31 07:42:47",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "2418a5d4-cf6a-486d-9f26-ff607a0dc0d7",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-06 23:56:34",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "46c3a26c-3f60-4df9-a136-3e7088f8c764",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-22 07:23:18",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "f6fb54e5-171b-4497-93d0-7fe916c213cc",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-26 13:39:47",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "c5c6339c-670d-4635-b0e4-7c18251f4f9c",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-07 19:33:31",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "d6d4aee4-a9bc-432d-96e9-96c332ca8c89",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-06 08:18:06",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "3be83411-4d58-437b-a367-e7884532452c",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-18 15:38:01",
+    "user_id": "4f4e07bc-8c69-4002-a13d-83280ff87c85",
+    "id": "38ebd027-7dbc-4028-b7c0-5c347a14a20d",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-15 10:14:17",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "23289c9e-057f-47b6-8d07-c391701f8291",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-08 13:06:08",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "4c5fa137-2b30-43ff-b069-765bcb12a22d",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-13 19:30:05",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "ffdf528a-564d-4279-94e7-be2ca8b3f897",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-11 04:45:21",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "9ed64b95-937f-4901-b5b4-92762e0961a5",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-20 20:47:41",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "5f075852-4a07-4dd9-83f3-023b9b6d32ab",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-24 13:00:17",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "b7693099-0987-4439-8530-8741cf6de644",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-17 21:41:34",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "885d9978-a220-494f-8a1d-c454494fdff8",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-06 04:30:36",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "6714c9db-fcd2-43b4-8bdc-484805853971",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-20 10:32:44",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "effe22e7-1796-4ca3-811a-c14fa10b8026",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-06 13:29:59",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "174595f5-c19e-4dfa-be65-0bcb9d29f8b8",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-13 12:59:54",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "358e0011-986b-4976-a385-9f67311d0187",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-21 15:02:49",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "b7142ce7-1c23-46d1-b07c-cc35c4d64e0d",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-09 17:08:50",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "025482f9-1eb7-4460-b4b4-cb1fab778497",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-03 17:11:51",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "b1e27324-61d1-4a05-bf9b-16171f6edd71",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-03 17:50:15",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "d844a80a-7498-46b6-a9d8-20c72861443b",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-11 23:56:47",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "fdf57806-f903-4912-b758-1405341dfad4",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-24 15:11:47",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "dcdd0727-d6a2-4abc-88d9-2c02e18760da",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-24 08:38:17",
+    "user_id": "a8547ad1-34e6-47b6-8a46-70cdd338e512",
+    "id": "f1657b34-3c34-4adf-9d31-7255c5cdab5e",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-13 14:51:26",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "c3644c10-2138-470a-bd01-6c907c371f1b",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-09 02:56:03",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "eda7fa65-96e7-4455-93b6-a7e931193db1",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-30 23:18:31",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "673d9713-0719-4c63-81b4-089fa8f4b7a8",
+    "name": "PROFILE_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-15 09:05:44",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "e438a3ee-f2a8-4ef6-91be-5e8021816e28",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-21 10:15:18",
+    "user_id": "116d563e-55e2-4806-8f1e-cabcf80f1989",
+    "id": "0694a91c-9a30-49a3-8f9f-1af2d46ccfec",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-19 05:27:44",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "be8bb67b-b836-491f-be91-970e4e600a09",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-03 17:01:52",
+    "user_id": "dad3e659-2af7-43ab-adbb-ef927fea505d",
+    "id": "f276c43a-eb81-4454-8f56-f7ad93777f10",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-05 16:40:11",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "200fdcec-328e-4d96-acc7-3ada50e94667",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-06 21:53:19",
+    "user_id": "0be97935-5344-4551-8b22-b3888bc8a82b",
+    "id": "bffccfaf-4728-47f4-8d74-57f7a98724ee",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-04 11:34:01",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "5103c1bb-9dc8-4a26-80b9-ee57c186d6e8",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-13 21:35:57",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "02f322bd-b56c-4ca1-b18b-a2af6e2db628",
+    "name": "HIKING_PAUSED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-10 08:19:17",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "c985add2-e411-45f0-8745-3ddbc1c6132d",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-06 23:17:50",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "53861de9-ba71-4755-8495-115925ac0a02",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-02 10:20:27",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "a79caaee-6f46-4767-946a-e7b993ba60e8",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-24 17:27:19",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "dd12a057-2670-47bc-977d-1e09d935ce1e",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-29 01:50:54",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "9cd6d6bc-6357-4a7a-8e70-4a207b9e55b3",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-12 06:26:27",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "8ef800d0-82ef-4aa4-bd77-16be1b8ec5e2",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-23 08:05:55",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "aa6ab25a-c911-4cec-a536-004be9e7c46e",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-24 05:58:45",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "c4a36da3-e13e-4274-86d6-09875db65f3f",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-01 17:02:39",
+    "user_id": "e333a7c9-5aa6-4985-aaa0-993831ea87ce",
+    "id": "96633739-ec63-4ba8-b26a-f4b8cb396fe8",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-13 14:53:21",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "d8f6deab-bd20-4206-acec-906274e9ff0e",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-18 07:00:41",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "ae73e78a-54f3-475d-849a-54e0d0703867",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-10 09:40:05",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "4b35e4e6-eec2-4b73-abc7-438c3e9623aa",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-16 03:29:17",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "6f59328f-2f28-4562-a219-c0a8d4837df0",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-03 04:45:44",
+    "user_id": "d23d557b-44b3-472a-b3f5-307a9122ab3e",
+    "id": "c47f70eb-1998-4e0f-8840-b202d1718be6",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-07-22 19:08:56",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "344d35b1-471e-4704-b83b-3ab26e2f8b73",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-14 14:18:19",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "08d123eb-f3d5-4deb-afe3-e5c633628686",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-06 16:18:34",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "7de867a8-9653-41d1-83a6-d63373deb5b5",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-04 19:24:26",
+    "user_id": "4a34d284-a862-4558-b0aa-c6d23de20c42",
+    "id": "e706441d-32b4-466e-be84-787186ebb439",
+    "name": "ACTIVITY_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-01-31 15:38:58",
+    "user_id": "fc48b979-c0f7-48e1-bea7-ca0154a4b33f",
+    "id": "e5099664-c91e-42bb-836d-c1a1d8f9e858",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-10-30 19:51:21",
+    "user_id": "9bb96304-0bfd-4669-913e-0f641cb230df",
+    "id": "764a2c20-8fd1-4529-aced-ee08746f0705",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-10 08:03:20",
+    "user_id": "3d64431b-91fd-4048-ad2c-aa2565a5c1fb",
+    "id": "0d87422d-c6c1-4e93-a98a-28b1294772d8",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-23 22:52:58",
+    "user_id": "240f72bc-0d69-4c71-8ed9-e7d0d2a634d2",
+    "id": "56642caf-492c-4f81-8233-b3a075880e93",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-15 19:29:56",
+    "user_id": "32a8bc26-fd91-47a5-b7b4-8affd6f7a3de",
+    "id": "5e0285d6-391c-42bf-9020-70273c460955",
+    "name": "COMPLETE_ONBOARDING",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-05-25 21:12:59",
+    "user_id": "27a22d33-0cc8-44be-b4c0-20abf621d441",
+    "id": "aa725194-feb0-4c8a-9131-baa6bd8ddea9",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-02-12 03:41:30",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "d1640e67-7816-4e7f-afbb-a362bc6bf248",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-04-28 22:33:53",
+    "user_id": "3e339f55-ad72-487c-bda9-ab06771d8082",
+    "id": "ed64775a-2f96-4809-a12a-3067a9aa1c82",
+    "name": "SYNC_TRAIL_DATA",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-06-23 01:29:57",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "12412e23-31ef-4f9c-9635-e84a1cf65054",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-09-26 05:07:08",
+    "user_id": "9dc75174-a6fb-4d66-a907-352f084d8796",
+    "id": "ebd88f2e-bd4a-4847-b32f-ec9fcd0ec0ee",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-11-05 22:35:20",
+    "user_id": "9605e80c-b349-4577-8f86-511f7871ffb3",
+    "id": "7081d1c7-eee1-43cc-a649-94516f24e348",
+    "name": "HIKING_RESTARTED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-12-28 00:16:26",
+    "user_id": "71724ec5-d6e8-48ac-8f9d-f5f0d10c0df2",
+    "id": "b7d5f316-75d3-4e3c-8b24-e33e32b5214a",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-08-14 04:39:54",
+    "user_id": "0e819bc9-9c3b-470c-90fc-bba20563b2c4",
+    "id": "2434a940-f3f3-4619-8748-dae6ac0737fa",
+    "name": "DIMENSION_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
+  },
+  {
+    "created_at": "2024-03-03 11:22:41",
+    "user_id": "76313358-d0c6-46d4-a524-5662618820a3",
+    "id": "3475e32b-6179-4ef3-a7fa-868e1b87b18b",
+    "name": "SHOW_ON_MAP_TOGGLED",
+    "version": "1.0",
+    "device": "mobile"
   }
 ]

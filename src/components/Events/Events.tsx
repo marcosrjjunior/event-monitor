@@ -11,8 +11,9 @@ import { EVENT_LOCATIONS } from '@/utils/constants'
 export const Events = ({ events }) => {
   const [currentEvent, setCurrentEvent] = useState(events[0])
 
+  console.log('currentEvent', currentEvent)
   const eventLocation =
-    EVENT_LOCATIONS?.[currentEvent.version || '1.0']?.[currentEvent.name]
+    EVENT_LOCATIONS?.[currentEvent?.version || '1.0']?.[currentEvent.name]
   console.log('eventLocation', eventLocation)
 
   // const top = eventLocation.x
