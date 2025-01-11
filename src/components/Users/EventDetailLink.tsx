@@ -12,7 +12,10 @@ export const UserDetailLink = ({ userId, disabled = false }) => {
       disabled={disabled}
       onClick={() => {
         router.push(
-          updateSearchParams(window.location.href, { user_id: userId }),
+          updateSearchParams(window.location.href, {
+            user_id: userId,
+            filters_date: undefined,
+          }),
         )
       }}
     >
