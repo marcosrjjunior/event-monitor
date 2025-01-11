@@ -8,13 +8,14 @@ import { UsersFilters } from './UsersFilters'
 export const Users = async ({ searchParams }) => {
   const { page = 1, filters_user_id, user_id } = await searchParams
 
-  const users = getData('users.json')
+  const users = getData('users.json', page, 12)
+
   const filteredUser = users.filter(
     user => !filters_user_id || user.id === filters_user_id,
   )
 
   return (
-    <div className="flex flex-col md:min-w-[375px]">
+    <div className="flex min-w-full flex-col lg:min-w-[375px] gap-2">
       {/* <h2 className="text-base">Users</h2> */}
 
       {/* <span className="pb-2 text-sm tracking-wide opacity-60">Users</span> */}
@@ -57,10 +58,8 @@ export const Users = async ({ searchParams }) => {
 
         <button className="btn join-item">Page {page}</button>
 
-        <Link
-          href={`?page=${filteredUser.length > 1 ? +page : +page + 1}`}
-          scroll={false}
-        >
+        {/* TODO: adjust max page here, total pages */}
+        <Link href={`?page=${+page + 1}`} scroll={false}>
           <button className="btn join-item">»</button>
         </Link>
       </div>

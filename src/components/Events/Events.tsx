@@ -38,8 +38,8 @@ export const Events = ({ events }) => {
   const imagePath = `/assets/${eventLocation?.device || 'mobile'}/${eventLocation?.version || '1.0'}/${eventLocation?.image || 'no-image'}.png`
 
   return (
-    <div className="flex w-full flex-col gap-2 lg:items-center">
-      <div className="flex w-[80%] flex-col gap-2">
+    <div className="flex w-full flex-col gap-3 lg:items-center">
+      <div className="flex w-full flex-col gap-2">
         <EventsForm
           setData={setData}
           data={data}
@@ -56,50 +56,36 @@ export const Events = ({ events }) => {
       </div>
 
       {filteredEvents.length > 0 && (
-        <>
-          <div className="flex-start flex gap-2">
+        <div className="mt-2 flex flex-col gap-4 w-full items-center">
+          <div className="flex items-center gap-2">
             <span>Event: </span>
-            <span className="text-md flex flex-row items-center gap-2 font-semibold">
-              {currentEvent?.name}
+            <span className="text-md font-semibold">{currentEvent?.name}</span>
 
-              {(eventLocation?.run_on_background ||
-                currentEvent?.custom?.error) && (
-                <span
-                  className="tooltip cursor-help"
-                  data-tip={`Background request. ${currentEvent?.custom?.error ? `Error: ${currentEvent.custom.error}` : ''}`}
-                >
-                  <InfoCircle className="w-5" />
-                </span>
-              )}
-            </span>
+            {(eventLocation?.run_on_background ||
+              currentEvent?.custom?.error) && (
+              <span
+                className="tooltip cursor-help"
+                data-tip={`Background request. ${currentEvent?.custom?.error ? `Error: ${currentEvent.custom.error}` : ''}`}
+              >
+                <InfoCircle className="w-5" />
+              </span>
+            )}
           </div>
 
           <div className="relative">
-            <div className="relative flex h-5 w-5">
-              <span
-                className={cx(
-                  'absolute h-full w-full rounded-full opacity-75',
-                  {
-                    'inline-flex animate-ping':
-                      !eventLocation?.run_on_background,
-                    'bg-accent': !eventLocation?.run_on_background,
-                    'bg-error': eventLocation?.error,
-                    hidden: eventLocation?.run_on_background,
-                  },
-                )}
-                style={{ top: eventLocation?.x, left: eventLocation?.y }}
-              />
-            </div>
-
-            <Image
-              // className="dark:invert"
-              src={imagePath}
-              alt="Asset"
-              width={350}
-              height={1167}
+            <span
+              className={cx('absolute h-5 w-5 rounded-full opacity-75', {
+                'inline-flex animate-ping': !eventLocation?.run_on_background,
+                'bg-accent': !eventLocation?.run_on_background,
+                'bg-error': eventLocation?.error,
+                hidden: eventLocation?.run_on_background,
+              })}
+              style={{ top: eventLocation?.x, left: eventLocation?.y }}
             />
+
+            <Image src={imagePath} alt="Asset" width={300} height={1167} />
           </div>
-        </>
+        </div>
       )}
     </div>
   )

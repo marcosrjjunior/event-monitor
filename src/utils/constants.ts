@@ -5,16 +5,16 @@ export const DB_DATE = 'yyyy-MM-dd'
 
 export const EVENT_LOCATIONS = {
   ['1.0']: {
-    COMPLETE_ONBOARDING: { image: 'onboarding', x: 650, y: 165 },
-    SHOW_ON_MAP_TOGGLED: { image: 'dashboard', x: 610, y: 165 },
-    PROFILE_TOGGLED: { image: 'dashboard', x: 90, y: 280 },
+    COMPLETE_ONBOARDING: { image: 'onboarding', x: 540, y: 140 },
+    SHOW_ON_MAP_TOGGLED: { image: 'dashboard', x: 505, y: 140 },
+    PROFILE_TOGGLED: { image: 'dashboard', x: 60, y: 240 },
 
-    HIKING_PAUSED: { image: 'running', x: 640, y: 165 },
-    HIKING_RESTARTED: { image: 'running', x: 640, y: 165 },
-    ACTIVITY_TOGGLED: { image: 'running', x: 640, y: 260 },
+    HIKING_PAUSED: { image: 'running', x: 530, y: 140 },
+    HIKING_RESTARTED: { image: 'running', x: 530, y: 140 },
+    ACTIVITY_TOGGLED: { image: 'running', x: 530, y: 222 },
 
-    DIMENSION_TOGGLED: { image: 'running', x: 262, y: 281 },
-    DIMENSION_TOGGLED_FAILED: { image: 'running', x: 262, y: 281, error: true },
+    DIMENSION_TOGGLED: { image: 'running', x: 205, y: 240 },
+    DIMENSION_TOGGLED_FAILED: { image: 'running', x: 205, y: 240, error: true },
 
     SYNC_TRAIL_DATA_STARTED: {
       image: 'running',
