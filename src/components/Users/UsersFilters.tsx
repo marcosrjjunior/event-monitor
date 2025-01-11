@@ -19,6 +19,7 @@ async function onSubmit(previousState, formData) {
 
   currentUrl.searchParams.set('page', 1)
   currentUrl.searchParams.set('filters_user_id', user_id)
+
   window.location.href = currentUrl.toString()
 
   return { user_id }

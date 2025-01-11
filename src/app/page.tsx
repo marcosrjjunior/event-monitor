@@ -1,4 +1,3 @@
-import { Events } from '@/components/Events'
 import { EventsWrapper } from '@/components/Events/EventsWrapper'
 import { Users } from '@/components/Users/Users'
 import { CubeHole, Menu } from 'iconoir-react'
@@ -9,7 +8,7 @@ export default async function Home({ searchParams }) {
   const { user_id } = await searchParams
 
   return (
-    <div className="bg-base-100 grid min-h-screen gap-2 p-8 pb-20 font-[family-name:var(--font-geist-sans)]">
+    <div className="bg-base-100 min-h-screen gap-2 p-8 pb-20 font-[family-name:var(--font-geist-sans)]">
       <main className="row-start-2 flex flex-col items-center gap-8 sm:items-start">
         <div className="navbar bg-base-100">
           <div className="navbar-start w-full">
@@ -88,7 +87,7 @@ export default async function Home({ searchParams }) {
           </Suspense>
 
           <Suspense>
-            <EventsWrapper searchParams={searchParams} userId={user_id} />
+            <EventsWrapper userId={user_id} />
           </Suspense>
         </div>
 

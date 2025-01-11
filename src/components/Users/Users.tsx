@@ -17,7 +17,7 @@ export const Users = async ({ searchParams }) => {
     <div className="flex flex-col md:min-w-[375px]">
       {/* <h2 className="text-base">Users</h2> */}
 
-      <span className="pb-2 text-sm tracking-wide opacity-60">Users</span>
+      {/* <span className="pb-2 text-sm tracking-wide opacity-60">Users</span> */}
 
       <UsersFilters users={users} />
 
@@ -25,7 +25,7 @@ export const Users = async ({ searchParams }) => {
         {filteredUser.map(user => (
           <li
             className={cx('list-row', {
-              'opacity-70': user.id !== user_id,
+              'opacity-80': user.id !== user_id,
             })}
             key={user.id}
           >
