@@ -22,10 +22,10 @@ async function onSubmit(previousState, formData) {
   return { date: formData.date }
 }
 
-export const EventsForm = ({ data, setData, initialValues }) => {
+export const EventsForm = ({ initialValues }) => {
   const searchParams = useSearchParams()
 
-  const [state, submit, _] = useActionState(onSubmit, {
+  const [state, submit] = useActionState(onSubmit, {
     date: searchParams.get('filters_date'),
   })
 
@@ -37,9 +37,6 @@ export const EventsForm = ({ data, setData, initialValues }) => {
 
   return (
     <form action={submit} className="flex gap-2">
-      {/* {state?.user_id} */}
-      {/* <label htmlFor="user_id">User </label> */}
-
       {/* TODO: populate available dates based on the selected user_id */}
       <select
         className="select select-sm"
@@ -56,20 +53,6 @@ export const EventsForm = ({ data, setData, initialValues }) => {
           </option>
         ))}
       </select>
-
-      {/* <button className="btn btn-soft btn-sm btn-ghost" disabled={isPending}>
-        Filter
-      </button> */}
-
-      {/* <button
-        className="btn btn-soft btn-sm btn-ghost"
-        disabled={isPending}
-        onClick={() => {
-          reset()
-        }}
-      >
-        Reset
-      </button> */}
     </form>
   )
 }

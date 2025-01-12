@@ -15,7 +15,6 @@ import { InfoCircle } from 'iconoir-react'
 export const Events = ({ events }) => {
   const searchParams = useSearchParams()
   const [currentEventIndex, setCurrentEventIndex] = useState(0)
-  const [data, setData] = useState(0)
 
   const eventDates = [
     ...new Set(
@@ -40,11 +39,7 @@ export const Events = ({ events }) => {
   return (
     <div className="flex w-full flex-col gap-3 lg:items-center">
       <div className="flex w-full flex-col gap-2">
-        <EventsForm
-          setData={setData}
-          data={data}
-          initialValues={{ dates: eventDates }}
-        />
+        <EventsForm initialValues={{ dates: eventDates }} />
 
         {filteredEvents.length > 0 && (
           <EventsSlider
@@ -56,7 +51,7 @@ export const Events = ({ events }) => {
       </div>
 
       {filteredEvents.length > 0 && (
-        <div className="mt-2 flex flex-col gap-4 w-full items-center">
+        <div className="mt-2 flex w-full flex-col items-center gap-4">
           <div className="flex items-center gap-2">
             <span>Event: </span>
             <span className="text-md font-semibold">{currentEvent?.name}</span>

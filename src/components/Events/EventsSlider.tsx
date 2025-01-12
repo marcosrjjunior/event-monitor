@@ -37,7 +37,7 @@ export const EventsSlider = ({
   return (
     <div className="flex w-full flex-col gap-1">
       <span className="text-xs opacity-60">
-        Select an hour an use the keyboard {`'<'`} or {`'>'`} to navigate.
+        Pick a time and use the keyboard {`'<'`} or {`'>'`} to navigate.
       </span>
 
       <div className="mt-2 flex min-h-[38px] justify-between gap-2 overflow-x-scroll px-2.5 text-xs">
