@@ -1,6 +1,6 @@
 import { EventsWrapper } from '@/components/Events/EventsWrapper'
 import { Users } from '@/components/Users/Users'
-import { CubeHole, Menu } from 'iconoir-react'
+import { CubeHole } from 'iconoir-react'
 import Image from 'next/image'
 import { Suspense } from 'react'
 
@@ -10,77 +10,6 @@ export default async function Home({ searchParams }) {
   return (
     <div className="bg-base-100 min-h-screen gap-2 p-8 pb-20 font-[family-name:var(--font-geist-sans)]">
       <main className="row-start-2 flex flex-col items-center gap-8 sm:items-start">
-        <div className="navbar bg-base-100">
-          <div className="navbar-start w-full">
-            <div className="dropdown">
-              <div
-                tabIndex={0}
-                role="button"
-                className="btn btn-ghost lg:hidden"
-              >
-                <Menu />
-              </div>
-
-              <ul
-                tabIndex={0}
-                className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 gap-2 p-2 shadow"
-              >
-                <li>
-                  <a>
-                    <CubeHole />
-                    Events
-                  </a>
-                </li>
-
-                <li>
-                  <a>
-                    <CubeHole />
-                    Heatmap
-                  </a>
-                </li>
-
-                <li>
-                  <a>
-                    <CubeHole />
-                    Charts
-                  </a>
-                </li>
-              </ul>
-            </div>
-
-            <a className="btn btn-ghost text-xl">event monitor</a>
-
-            <div className="hidden lg:flex">
-              <ul className="menu menu-horizontal px-1">
-                <li>
-                  <a>
-                    <CubeHole />
-                    Events
-                  </a>
-                </li>
-
-                <li>
-                  <a>
-                    <CubeHole />
-                    Heatmap
-                  </a>
-                </li>
-
-                <li>
-                  <a>
-                    <CubeHole />
-                    Charts
-                  </a>
-                </li>
-              </ul>
-            </div>
-
-            {/* <div className="navbar-end">
-            <a className="btn">Button</a>
-          </div> */}
-          </div>
-        </div>
-
         <div className="flex w-full flex-row flex-wrap gap-5">
           <Suspense>
             <Users searchParams={searchParams} />

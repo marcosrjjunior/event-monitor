@@ -1,5 +1,6 @@
 'use client'
 
+import { useSearchParams } from 'next/navigation'
 import { startTransition, useActionState } from 'react'
 
 async function onSubmit(previousState, formData) {
@@ -17,7 +18,7 @@ async function onSubmit(previousState, formData) {
   // TODO: validate required here
   if (!user_id) return
 
-  currentUrl.searchParams.set('page', 1)
+  currentUrl.searchParams.set('page', '1')
   currentUrl.searchParams.set('filters_user_id', user_id)
 
   window.location.href = currentUrl.toString()
@@ -27,6 +28,7 @@ async function onSubmit(previousState, formData) {
 
 export const UsersFilters = ({ users }) => {
   const [state, submit, isPending] = useActionState(onSubmit, undefined)
+  const searchParams = useSearchParams()
 
   const reset = () => {
     startTransition(() => {
@@ -59,7 +61,7 @@ export const UsersFilters = ({ users }) => {
 
       <button
         className="btn btn-soft btn-sm btn-ghost"
-        disabled={isPending}
+        disabled={isPending || !searchParams.get('filters_user_id')}
         onClick={() => {
           reset()
         }}
