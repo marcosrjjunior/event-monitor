@@ -56,11 +56,10 @@ export const Events = ({ events }) => {
             <span>Event: </span>
             <span className="text-md font-semibold">{currentEvent?.name}</span>
 
-            {(eventLocation?.run_on_background ||
-              currentEvent?.custom?.error) && (
+            {(eventLocation?.run_on_background || currentEvent?.custom) && (
               <span
                 className="tooltip cursor-help"
-                data-tip={`Background request. ${currentEvent?.custom?.error ? `Error: ${currentEvent.custom.error}` : ''}`}
+                data-tip={`Background request. ${currentEvent?.custom ? `Error: ${JSON.parse(currentEvent.custom)?.error}` : ''}`}
               >
                 <InfoCircle className="w-5" />
               </span>

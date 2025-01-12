@@ -1,29 +1,32 @@
 import Link from 'next/link'
 import cx from 'clsx'
 
-import { getData } from '@/lib/db'
+import { db } from '@/lib/db'
 import { UserDetailLink } from './EventDetailLink'
 import { UsersFilters } from './UsersFilters'
 
 export const Users = async ({ searchParams }) => {
   const { page = 1, filters_user_id, user_id } = await searchParams
 
-  const users = getData('users.json', page, 11)
-
-  const filteredUser = users.filter(
-    user => !filters_user_id || user.id === filters_user_id,
-  )
+  // TODO: call your API instead, this was a temporary logic
+  const pageSize = 10
+  const [users, allUsers] = await Promise.all([
+    filters_user_id
+      ? db.prepare(`SELECT * FROM users WHERE id = ?`).all(filters_user_id)
+      : db
+          .prepare(
+            `SELECT * FROM users LIMIT ${pageSize} OFFSET ${(page - 1) * pageSize}`,
+          )
+          .all(),
+    db.prepare(`SELECT * FROM users`).all(),
+  ])
 
   return (
     <div className="flex min-w-full flex-col gap-2 lg:min-w-[375px]">
-      {/* <h2 className="text-base">Users</h2> */}
-
-      {/* <span className="pb-2 text-sm tracking-wide opacity-60">Users</span> */}
-
-      <UsersFilters users={users} />
+      <UsersFilters users={allUsers} />
 
       <ul className="list bg-base-100 rounded-box shadow-md">
-        {filteredUser.map(user => (
+        {users.map((user: any) => (
           <li
             className={cx('list-row', {
               'opacity-80': user.id !== user_id,

@@ -6,19 +6,25 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "migrate": "npx tsx src/lib/db/migrate.ts",
+    "seed": "npx tsx src/lib/db/migrate.ts --seed",
+    "vercel-prod": "bunx vercel --prod"
   },
   "dependencies": {
     "@tailwindcss/postcss": "4.0.0-beta.8",
+    "better-sqlite3": "^11.7.2",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "iconoir-react": "^7.10.1",
     "next": "15.1.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "recharts": "^2.15.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/better-sqlite3": "^7.6.12",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
