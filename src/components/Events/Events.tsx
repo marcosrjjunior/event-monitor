@@ -51,7 +51,7 @@ export const Events = ({ events }) => {
       </div>
 
       {filteredEvents.length > 0 && (
-        <div className="mt-2 flex w-full flex-col items-center gap-4">
+        <div className="flex w-full flex-col items-center gap-4">
           <div className="flex items-center gap-2">
             <span>Event: </span>
             <span className="text-md font-semibold">{currentEvent?.name}</span>
