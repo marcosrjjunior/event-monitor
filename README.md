@@ -1,5 +1,6 @@
 ## Event monitor
-TODO:
+
+A simple app to enhance visibility into user interactions
 
 ### Requirements
 
@@ -17,14 +18,7 @@ pnpm install
 ```
 
 Run the project
+
 ```sh
 pnpm dev
 ```
-
-## Learn More
-
-
-
-## Deploy on Vercel
-
-
