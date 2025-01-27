@@ -16,8 +16,6 @@ export const EventsSlider = ({
   useEffect(() => {
     const handleKeyDown = event => {
       if (event.key === 'ArrowLeft') {
-        console.log('asdasdasad', currentEventIndex)
-
         if (currentEventIndex === 0) return
 
         setCurrentEventIndex(currentEventIndex - 1)
