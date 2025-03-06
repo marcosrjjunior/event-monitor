@@ -22,3 +22,7 @@ Run the project
 ```sh
 pnpm dev
 ```
+
+## Notes
+
+The current sqlite implementation is just for demo purposes. Feel free to make any required adjusments to your scenario.
