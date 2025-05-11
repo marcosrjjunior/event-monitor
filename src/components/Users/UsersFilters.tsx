@@ -5,6 +5,8 @@ import { startTransition, useActionState } from 'react'
 
 async function onSubmit(previousState, formData) {
   const currentUrl = new URL(window.location.href)
+  currentUrl.searchParams.delete('user_id')
+  currentUrl.searchParams.delete('filters_date')
 
   if (!formData) {
     currentUrl.searchParams.delete('filters_user_id')

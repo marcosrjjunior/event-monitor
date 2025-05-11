@@ -1,6 +1,9 @@
-export const updateSearchParams = (url: string, params) => {
-  const urlObj = new URL(url, window.location.origin)
-  const searchParams = urlObj.searchParams
+export const updateSearchParams = (
+  pathname: string,
+  currentSearchParams: URLSearchParams,
+  params: Record<string, string | undefined>,
+): string => {
+  const searchParams = new URLSearchParams(currentSearchParams.toString())
 
   for (const [key, value] of Object.entries(params)) {
     if (value === undefined) {
@@ -8,10 +11,8 @@ export const updateSearchParams = (url: string, params) => {
       continue
     }
 
-    searchParams.set(key, value as string)
+    searchParams.set(key, value)
   }
 
-  urlObj.search = searchParams.toString()
-
-  return urlObj.toString()
+  return `${pathname}?${searchParams.toString()}`
 }
