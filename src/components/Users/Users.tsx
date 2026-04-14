@@ -12,13 +12,15 @@ export const Users = async ({ searchParams }) => {
   const pageSize = 10
   const [users, allUsers] = await Promise.all([
     filters_user_id
-      ? db.prepare(`SELECT * FROM users WHERE id = ?`).all(filters_user_id)
-      : db
+      ? (db
+          .prepare(`SELECT * FROM users WHERE id = ?`)
+          .all(filters_user_id) as User[])
+      : (db
           .prepare(
             `SELECT * FROM users LIMIT ${pageSize} OFFSET ${(page - 1) * pageSize}`,
           )
-          .all(),
-    db.prepare(`SELECT * FROM users`).all(),
+          .all() as User[]),
+    db.prepare(`SELECT * FROM users`).all() as User[],
   ])
 
   return (
@@ -26,7 +28,7 @@ export const Users = async ({ searchParams }) => {
       <UsersFilters users={allUsers} />
 
       <ul className="list bg-base-100 rounded-box shadow-md">
-        {users.map((user: any) => (
+        {users.map(user => (
           <li
             className={cx('list-row', {
               'opacity-80': user.id !== user_id,
@@ -68,4 +70,9 @@ export const Users = async ({ searchParams }) => {
       </div>
     </div>
   )
+}
+
+type User = {
+  id: string
+  name: string
 }
