@@ -1,6 +1,6 @@
 {
   "name": "event-monitor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,38 +12,29 @@
     "vercel:prod": "bunx vercel --prod"
   },
   "dependencies": {
-    "better-sqlite3": "^12.9.0",
+    "better-sqlite3": "^12.10.0",
     "clsx": "^2.1.1",
-    "date-fns": "^4.1.0",
+    "date-fns": "^4.4.0",
     "iconoir-react": "^7.11.0",
-    "next": "16.2.3",
-    "react": "^19.2.5",
-    "react-dom": "^19.2.5",
+    "next": "16.2.7",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
     "recharts": "^3.8.1"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
     "@types/better-sqlite3": "^7.6.13",
-    "@types/node": "^20",
+    "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "^1.0.0",
-    "daisyui": "5.5.19",
+    "daisyui": "5.5.23",
     "eslint": "^9",
     "eslint-config-next": "16.2.3",
-    "postcss": "^8.5.9",
-    "prettier": "^3.8.2",
-    "prettier-plugin-tailwindcss": "^0.7.2",
+    "postcss": "^8.5.15",
+    "prettier": "^3.8.3",
+    "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwindcss": "^4",
-    "@tailwindcss/postcss": "^4",
     "typescript": "^6"
-  },
-  "pnpm": {
-    "ignoredBuiltDependencies": [
-      "sharp",
-      "unrs-resolver"
-    ],
-    "onlyBuiltDependencies": [
-      "better-sqlite3"
-    ]
   }
 }
