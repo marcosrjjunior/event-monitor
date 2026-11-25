@@ -2,11 +2,13 @@
 
 A simple app to enhance visibility into user interactions
 
+![Event monitor dashboard](assets/dashboard-dark.png)
+
 ### Requirements
 
-- Node.js v20+
-- nvm installed to manage node versions https://github.com/nvm-sh/nvm#install--update-script
-- pnpm (npm install -g pnpm) https://pnpm.io
+- Node.js v24+
+- [nvm](https://github.com/nvm-sh/nvm#install--update-script) installed to manage node versions 
+- [pnpm](https://pnpm.io) (npm install -g pnpm) 
 
 ## Getting Started
 
